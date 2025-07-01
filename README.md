@@ -10,7 +10,7 @@ This repository automatically fetches and updates a list of **300+ cybersecurity
 
 ## 📦 Live Dataset JSON
 
-👉 [Click here to view the latest datasets (JSON)](https://raw.githubusercontent.com/rokibulroni/kaggle-datasets-index/main/data/zenodo_datasets.json)
+👉 [Click here to view the latest datasets (JSON)](https://raw.githubusercontent.com/rokibulroni/zenodo-datasets-index/main/data/zenodo_datasets.json)
 
 ---
 
