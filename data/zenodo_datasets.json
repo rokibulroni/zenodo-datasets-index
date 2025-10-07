@@ -1,18 +1,5 @@
 [
   {
-    "id": 15830438,
-    "title": "Honeypot-Anomaly-Self Attack",
-    "description": "<h3><strong>Dataset Description: Anomaly Events for 7 Days</strong></h3>\n<ul>\n<li>\n<p><strong>Source</strong>: Suricata IDS logs collected via the T-Pot honeypot platform.</p>\n</li>\n<li>\n<p><strong>Time Period</strong>: Covers logs from 7 days of network activity.</p>\n</li>\n<li>\n<p><strong>Purpose</",
-    "url": null,
-    "doi": "10.5281/zenodo.15830438",
-    "keywords": [],
-    "published": "2025-07-07",
-    "creators": [
-      "Saadoon, Mohammed Saadoon",
-      "Behadili, Suhad Faisal"
-    ]
-  },
-  {
     "id": 3547528,
     "title": "Trace-Share Dataset for Evaluation of Trace Meaning Preservation",
     "description": "<p>The dataset contains all data used during the evaluation of trace meaning preservation. Archives are protected by password &quot;<strong>trace-share</strong>&quot; to avoid false detection by antivirus software.</p>\n\n<p>For more information, see the project repository at <strong><a href=\"https://",
@@ -27,6 +14,19 @@
     "creators": [
       "Cermak, Milan",
       "Madeja, Tomas"
+    ]
+  },
+  {
+    "id": 15830438,
+    "title": "Honeypot-Anomaly-Self Attack",
+    "description": "<h3><strong>Dataset Description: Anomaly Events for 7 Days</strong></h3>\n<ul>\n<li>\n<p><strong>Source</strong>: Suricata IDS logs collected via the T-Pot honeypot platform.</p>\n</li>\n<li>\n<p><strong>Time Period</strong>: Covers logs from 7 days of network activity.</p>\n</li>\n<li>\n<p><strong>Purpose</",
+    "url": null,
+    "doi": "10.5281/zenodo.15830438",
+    "keywords": [],
+    "published": "2025-07-07",
+    "creators": [
+      "Saadoon, Mohammed Saadoon",
+      "Behadili, Suhad Faisal"
     ]
   },
   {
@@ -237,18 +237,15 @@
     ]
   },
   {
-    "id": 7956304,
-    "title": "Federated Learning for Distributed Intrusion Detection Systems in Public Networks - Validation Dataset",
-    "description": "<p>This dataset has been meticulously prepared and utilized as a validation set during the evaluation phase of &quot;Meta IDS&quot; to asses the performance of various machine learning models. It is&nbsp; now made available for interested users and researchers who seek a reliable and diverse dataset",
+    "id": 10685642,
+    "title": "Linux-APT-Dataset-2024",
+    "description": "<p>A novel dataset '<strong>Linux-APT-Dataset-2024</strong>' that includes the Tactics, Techniques and Procedure (<strong>TTP</strong>s) of Advanced Persistent Threat (<strong>APT</strong>) attacks in Linux environment. There are 17 files ranging from <strong>01st October 2023 to 07 January 2024</st",
     "url": null,
-    "doi": "10.5281/zenodo.7956304",
-    "keywords": [
-      "nmap, IoT, IDS, Federated Machine Learning, cybersecurity, Network-based IDS."
-    ],
-    "published": "2023-05-22",
+    "doi": "10.5281/zenodo.10685642",
+    "keywords": [],
+    "published": "2024-02-21",
     "creators": [
-      "Bakhshi Zadi Mahmoodi, Alireza",
-      "Panos Kostakos"
+      "Karim, Sohaib"
     ]
   },
   {
@@ -282,18 +279,6 @@
       "Marcello, Meschini",
       "Di Tizio, Giorgio",
       "Marco, Balduzzi"
-    ]
-  },
-  {
-    "id": 10685642,
-    "title": "Linux-APT-Dataset-2024",
-    "description": "<p>A novel dataset '<strong>Linux-APT-Dataset-2024</strong>' that includes the Tactics, Techniques and Procedure (<strong>TTP</strong>s) of Advanced Persistent Threat (<strong>APT</strong>) attacks in Linux environment. There are 17 files ranging from <strong>01st October 2023 to 07 January 2024</st",
-    "url": null,
-    "doi": "10.5281/zenodo.10685642",
-    "keywords": [],
-    "published": "2024-02-21",
-    "creators": [
-      "Karim, Sohaib"
     ]
   },
   {
@@ -350,6 +335,21 @@
       "Cwikla, Kamil",
       "Szymanski, Raphael",
       "Levy, Christopher"
+    ]
+  },
+  {
+    "id": 7956304,
+    "title": "Federated Learning for Distributed Intrusion Detection Systems in Public Networks - Validation Dataset",
+    "description": "<p>This dataset has been meticulously prepared and utilized as a validation set during the evaluation phase of &quot;Meta IDS&quot; to asses the performance of various machine learning models. It is&nbsp; now made available for interested users and researchers who seek a reliable and diverse dataset",
+    "url": null,
+    "doi": "10.5281/zenodo.7956304",
+    "keywords": [
+      "nmap, IoT, IDS, Federated Machine Learning, cybersecurity, Network-based IDS."
+    ],
+    "published": "2023-05-22",
+    "creators": [
+      "Bakhshi Zadi Mahmoodi, Alireza",
+      "Panos Kostakos"
     ]
   },
   {
@@ -461,30 +461,6 @@
     ]
   },
   {
-    "id": 14228995,
-    "title": "AIT OSINT Summer2024 Data Set",
-    "description": "<p>The cyber security news items in this dataset were gathered from publicly accessible sources using the OSINT platform Taranis AI (<a href=\"https://taranis.ai/\">https://taranis.ai/</a>). The dataset spans the period from May 13, 2024, to July 31, 2024, and consists of daily&nbsp;JSON files contain",
-    "url": null,
-    "doi": "10.5281/zenodo.14228995",
-    "keywords": [
-      "cyber threat intelligence",
-      "osint",
-      "cyber security news",
-      "news feeds",
-      "cti"
-    ],
-    "published": "2024-11-27",
-    "creators": [
-      "Woisetschl\u00e4ger, Elisabeth",
-      "Akhras, Benjamin",
-      "Leitmann, Peter",
-      "Skopik, Florian",
-      "Andresel, Medina",
-      "Landauer, Max",
-      "Wurzenberger, Markus"
-    ]
-  },
-  {
     "id": 15766671,
     "title": "Log Firewall",
     "description": "",
@@ -528,6 +504,30 @@
     ]
   },
   {
+    "id": 14228995,
+    "title": "AIT OSINT Summer2024 Data Set",
+    "description": "<p>The cyber security news items in this dataset were gathered from publicly accessible sources using the OSINT platform Taranis AI (<a href=\"https://taranis.ai/\">https://taranis.ai/</a>). The dataset spans the period from May 13, 2024, to July 31, 2024, and consists of daily&nbsp;JSON files contain",
+    "url": null,
+    "doi": "10.5281/zenodo.14228995",
+    "keywords": [
+      "cyber threat intelligence",
+      "osint",
+      "cyber security news",
+      "news feeds",
+      "cti"
+    ],
+    "published": "2024-11-27",
+    "creators": [
+      "Woisetschl\u00e4ger, Elisabeth",
+      "Akhras, Benjamin",
+      "Leitmann, Peter",
+      "Skopik, Florian",
+      "Andresel, Medina",
+      "Landauer, Max",
+      "Wurzenberger, Markus"
+    ]
+  },
+  {
     "id": 6587519,
     "title": "Ranflood benchmark ransomware.",
     "description": "<p>This are the results of the Ranflood benchmark ransomware.<br>\nRanflood is an open-source tool that mixes honeypots, resource contention, and<br>\nmoving target defence to contrast the action of ransomware, by flooding spe-<br>\ncific locations (e.g., the attack location, sensible folders, etc.) of",
@@ -551,6 +551,26 @@
     ]
   },
   {
+    "id": 4160585,
+    "title": "Dataset: Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges",
+    "description": "<p>This repository contains supplementary materials for the following journal paper:</p>\n\n<p>Valdemar &Scaron;v&aacute;bensk&yacute;, Pavel \u010celeda, Jan Vykopal, Silvia Bri&scaron;&aacute;kov&aacute;.<br>\n<em>Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges.</em><br>\nIn Elsevi",
+    "url": null,
+    "doi": "10.5281/zenodo.4160585",
+    "keywords": [
+      "cybersecurity education",
+      "security training",
+      "capture the flag",
+      "curricular guidelines"
+    ],
+    "published": "2020-12-27",
+    "creators": [
+      "Valdemar \u0160v\u00e1bensk\u00fd",
+      "Pavel \u010celeda",
+      "Jan Vykopal",
+      "Silvia Bri\u0161\u00e1kov\u00e1"
+    ]
+  },
+  {
     "id": 16924564,
     "title": "AU-PEMal-2025",
     "description": "<p>The AU-PEMal-2025 dataset is created for research purposes, is a malware dataset that was created with proper care. A total of 15,500 benign and 15,500 latest malware samples were collected from VirusTotal, VirusShare, and MalwareBazar and organized into category-wise and family-wise folders. Eac",
@@ -566,49 +586,6 @@
     "published": "2025-08-22",
     "creators": [
       "Amjad Hussain, Amjad Hussain"
-    ]
-  },
-  {
-    "id": 16368088,
-    "title": "Data-Driven Vulnerability Ontology",
-    "description": "<div>\n<h1><strong>Overview</strong></h1>\nThis ontology represents an enhanced framework for integrating heterogeneous vulnerability data from multiple authoritative cybersecurity sources. The ontology addresses critical limitations in existing theoretical models by ensuring full coherence with real-",
-    "url": null,
-    "doi": "10.5281/zenodo.16368088",
-    "keywords": [],
-    "published": "2025-07-23",
-    "creators": [
-      "Amalfitano, Domenico",
-      "Benfenati, Domenico",
-      "Landolfi, Davide",
-      "Rinaldi, Antonio M.",
-      "Russo, Cristiano",
-      "Tommasino, Cristian"
-    ]
-  },
-  {
-    "id": 5752288,
-    "title": "Dataset: Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises",
-    "description": "<p>This repository contains supplementary materials for the following conference paper:</p>\n\n<p>V. &Scaron;v&aacute;bensk&yacute;, R. Weiss, J. Cook, J. Vykopal, P. \u010celeda, J. Mache, R. Chudovsk&yacute;, A. Chattopadhyay.<br>\n<em>Evaluating Two Approaches to Assessing Student Progress in Cybersecuri",
-    "url": null,
-    "doi": "10.5281/zenodo.5752288",
-    "keywords": [
-      "cybersecurity education",
-      "command-line history",
-      "educational data mining",
-      "learning analytics",
-      "assessment",
-      "modeling"
-    ],
-    "published": "2021-12-03",
-    "creators": [
-      "Valdemar \u0160v\u00e1bensk\u00fd",
-      "Richard Weiss",
-      "Jack Cook",
-      "Jan Vykopal",
-      "Pavel \u010celeda",
-      "Jens Mache",
-      "Radoslav Chudovsk\u00fd",
-      "Ankur Chattopadhyay"
     ]
   },
   {
@@ -679,24 +656,46 @@
     ]
   },
   {
-    "id": 14907305,
-    "title": "MITRE ATT&CK TTP Data Set",
-    "description": "<p>The dataset contains sentences from MITRE ATT&amp;CK Tactics, Techniques, and Procedures (TTPs) along with their corresponding procedure descriptions. Here&rsquo;s an overview:</p>\n<ul>\n<li><strong>Columns:</strong>\n<ul>\n<li><strong>Key:</strong> Contains TTP techniques and subtechniques.</li>\n<l",
+    "id": 5752288,
+    "title": "Dataset: Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises",
+    "description": "<p>This repository contains supplementary materials for the following conference paper:</p>\n\n<p>V. &Scaron;v&aacute;bensk&yacute;, R. Weiss, J. Cook, J. Vykopal, P. \u010celeda, J. Mache, R. Chudovsk&yacute;, A. Chattopadhyay.<br>\n<em>Evaluating Two Approaches to Assessing Student Progress in Cybersecuri",
     "url": null,
-    "doi": "10.5281/zenodo.14907305",
+    "doi": "10.5281/zenodo.5752288",
     "keywords": [
-      "Cybersecurity",
-      "TTP",
-      "MITRE ATT&CK",
-      "Techniques",
-      "Threat Intelligence"
+      "cybersecurity education",
+      "command-line history",
+      "educational data mining",
+      "learning analytics",
+      "assessment",
+      "modeling"
     ],
-    "published": "2025-02-21",
+    "published": "2021-12-03",
     "creators": [
-      "Hamzi\u0107, D\u017eenan",
-      "Skopik, Florian",
-      "Landauer, Max",
-      "Wurzenberger, Markus"
+      "Valdemar \u0160v\u00e1bensk\u00fd",
+      "Richard Weiss",
+      "Jack Cook",
+      "Jan Vykopal",
+      "Pavel \u010celeda",
+      "Jens Mache",
+      "Radoslav Chudovsk\u00fd",
+      "Ankur Chattopadhyay"
+    ]
+  },
+  {
+    "id": 16368088,
+    "title": "Data-Driven Vulnerability Ontology",
+    "description": "<div>\n<h1><strong>Overview</strong></h1>\nThis ontology represents an enhanced framework for integrating heterogeneous vulnerability data from multiple authoritative cybersecurity sources. The ontology addresses critical limitations in existing theoretical models by ensuring full coherence with real-",
+    "url": null,
+    "doi": "10.5281/zenodo.16368088",
+    "keywords": [],
+    "published": "2025-07-23",
+    "creators": [
+      "Amalfitano, Domenico",
+      "Benfenati, Domenico",
+      "Landolfi, Davide",
+      "Rinaldi, Antonio M.",
+      "Russo, Cristiano",
+      "Tommasino, Cristian"
     ]
   },
   {
@@ -722,37 +721,24 @@
     ]
   },
   {
-    "id": 4160585,
-    "title": "Dataset: Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges",
-    "description": "<p>This repository contains supplementary materials for the following journal paper:</p>\n\n<p>Valdemar &Scaron;v&aacute;bensk&yacute;, Pavel \u010celeda, Jan Vykopal, Silvia Bri&scaron;&aacute;kov&aacute;.<br>\n<em>Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges.</em><br>\nIn Elsevi",
+    "id": 14907305,
+    "title": "MITRE ATT&CK TTP Data Set",
+    "description": "<p>The dataset contains sentences from MITRE ATT&amp;CK Tactics, Techniques, and Procedures (TTPs) along with their corresponding procedure descriptions. Here&rsquo;s an overview:</p>\n<ul>\n<li><strong>Columns:</strong>\n<ul>\n<li><strong>Key:</strong> Contains TTP techniques and subtechniques.</li>\n<l",
     "url": null,
-    "doi": "10.5281/zenodo.4160585",
+    "doi": "10.5281/zenodo.14907305",
     "keywords": [
-      "cybersecurity education",
-      "security training",
-      "capture the flag",
-      "curricular guidelines"
+      "Cybersecurity",
+      "TTP",
+      "MITRE ATT&CK",
+      "Techniques",
+      "Threat Intelligence"
     ],
-    "published": "2020-12-27",
+    "published": "2025-02-21",
     "creators": [
-      "Valdemar \u0160v\u00e1bensk\u00fd",
-      "Pavel \u010celeda",
-      "Jan Vykopal",
-      "Silvia Bri\u0161\u00e1kov\u00e1"
-    ]
-  },
-  {
-    "id": 851363,
-    "title": "Wideband I/Q Recording at VU2PTT for 30m Ham Radio Band during August 21, 2017 Solar Eclipse in USA",
-    "description": "<p>Recorded by Prasad Rajagopal, VU2PTT in Bangalore, India</p>\n\n<p>Location:\u00a0 Latitude 12\u00b058'24.8\"N,\u00a0 Longitude 77\u00b039'15.7\"E</p>\n\n<p>Grid Locator: MK82tx</p>\n\n<p>Recorded using Skimmer Server &amp; CWSL File</p>\n\n<p>Playback: Each time stamped I/Q file is a 15 minute slice and can be played back wi",
-    "url": null,
-    "doi": "10.5281/zenodo.851363",
-    "keywords": [
-      "hamsci, i/Q, IQ, rbn, sdr, vu2ptt, eclipse, hdsdr, 30m"
-    ],
-    "published": "2017-08-27",
-    "creators": [
-      "Rajagopal, Prasad"
+      "Hamzi\u0107, D\u017eenan",
+      "Skopik, Florian",
+      "Landauer, Max",
+      "Wurzenberger, Markus"
     ]
   },
   {
@@ -779,15 +765,15 @@
     ]
   },
   {
-    "id": 848699,
-    "title": "Wideband I/Q Recording at VU2PTT for 40m Ham Radio Band during August 21, 2017 Solar Eclipse in USA - PART 1",
+    "id": 851363,
+    "title": "Wideband I/Q Recording at VU2PTT for 30m Ham Radio Band during August 21, 2017 Solar Eclipse in USA",
     "description": "<p>Recorded by Prasad Rajagopal, VU2PTT in Bangalore, India</p>\n\n<p>Location:\u00a0 Latitude 12\u00b058'24.8\"N,\u00a0 Longitude 77\u00b039'15.7\"E</p>\n\n<p>Grid Locator: MK82tx</p>\n\n<p>Recorded using Skimmer Server &amp; CWSL File</p>\n\n<p>Playback: Each time stamped I/Q file is a 15 minute slice and can be played back wi",
     "url": null,
-    "doi": "10.5281/zenodo.848699",
+    "doi": "10.5281/zenodo.851363",
     "keywords": [
-      "hamsci, i/Q, IQ, rbn, sdr, vu2ptt, eclipse, hdsdr, 40m"
+      "hamsci, i/Q, IQ, rbn, sdr, vu2ptt, eclipse, hdsdr, 30m"
     ],
-    "published": "2017-08-25",
+    "published": "2017-08-27",
     "creators": [
       "Rajagopal, Prasad"
     ]
@@ -807,16 +793,17 @@
     ]
   },
   {
-    "id": 15649231,
-    "title": "Shennina, HPing, Nmap Scanning, DDOS attack PCAPs",
-    "description": "<p><span>This dataset consists of network packet captures (PCAPs) collected during both automated and manual cyberattack scenarios. The collection is annotated using alerts and metadata generated by Wazuh (a security information and event management platform), and includes attack sessions orchestrat",
+    "id": 848699,
+    "title": "Wideband I/Q Recording at VU2PTT for 40m Ham Radio Band during August 21, 2017 Solar Eclipse in USA - PART 1",
+    "description": "<p>Recorded by Prasad Rajagopal, VU2PTT in Bangalore, India</p>\n\n<p>Location:\u00a0 Latitude 12\u00b058'24.8\"N,\u00a0 Longitude 77\u00b039'15.7\"E</p>\n\n<p>Grid Locator: MK82tx</p>\n\n<p>Recorded using Skimmer Server &amp; CWSL File</p>\n\n<p>Playback: Each time stamped I/Q file is a 15 minute slice and can be played back wi",
     "url": null,
-    "doi": "10.5281/zenodo.15649231",
-    "keywords": [],
-    "published": "2025-06-12",
+    "doi": "10.5281/zenodo.848699",
+    "keywords": [
+      "hamsci, i/Q, IQ, rbn, sdr, vu2ptt, eclipse, hdsdr, 40m"
+    ],
+    "published": "2017-08-25",
     "creators": [
-      "Projecto Desenvolvimento Manuten\u00e7\u00e3o Forma\u00e7\u00e3o e Consultadoria",
-      "Karagiannis, Stylianos"
+      "Rajagopal, Prasad"
     ]
   },
   {
@@ -862,6 +849,19 @@
       "Jan Vykopal",
       "Pavel Seda",
       "Pavel \u010celeda"
+    ]
+  },
+  {
+    "id": 15649231,
+    "title": "Shennina, HPing, Nmap Scanning, DDOS attack PCAPs",
+    "description": "<p><span>This dataset consists of network packet captures (PCAPs) collected during both automated and manual cyberattack scenarios. The collection is annotated using alerts and metadata generated by Wazuh (a security information and event management platform), and includes attack sessions orchestrat",
+    "url": null,
+    "doi": "10.5281/zenodo.15649231",
+    "keywords": [],
+    "published": "2025-06-12",
+    "creators": [
+      "Projecto Desenvolvimento Manuten\u00e7\u00e3o Forma\u00e7\u00e3o e Consultadoria",
+      "Karagiannis, Stylianos"
     ]
   },
   {
@@ -927,29 +927,29 @@
     ]
   },
   {
-    "id": 17201975,
-    "title": "Forensic Evidence Archive \u2014 Positron \u00b7 ISKORKA (Aug\u2013Sep 2025)",
-    "description": "<h2>Forensic Evidence Archive &mdash; Positron &middot; ISKORKA (Aug&ndash;Sep 2025)</h2>\n<h3>Abstract :</h3>\n<h3>This deposit contains a curated forensic evidence package documenting targeted incidents affecting the Positron &middot; ISKORKA project between August and September 2025. The package pr",
+    "id": 848094,
+    "title": "Wideband I/Q Recording at VU2PTT for 80m Ham Radio Band during August 21, 2017 Solar Eclipse in USA",
+    "description": "<p>Recorded by Prasad Rajagopal, VU2PTT in Bangalore, India</p>\n\n<p>Location:\u00a0 Latitude 12\u00b058'24.8\"N,\u00a0 Longitude 77\u00b039'15.7\"E</p>\n\n<p>Grid Locator: MK82tx</p>\n\n<p>Recorded using Skimmer Server &amp; CWSL File</p>\n\n<p>Playback: Each time stamped I/Q file is a 15 minute slice and can be played back wi",
     "url": null,
-    "doi": "10.5281/zenodo.17201975",
+    "doi": "10.5281/zenodo.848094",
     "keywords": [
-      "forensic, cybersecurity, evidence, supply-chain, incident-response, OpenAI, network-security, Positron, ISKORKA, research-integrity"
+      "hamsci, i/Q, IQ, rbn, sdr, vu2ptt, eclipse, hdsdr, 80m"
     ],
-    "published": "2025-09-25",
+    "published": "2017-08-24",
     "creators": [
-      "Marnov, Maksym"
+      "Rajagopal, Prasad"
     ]
   },
   {
-    "id": 883046,
-    "title": "Wideband I/Q Recording at VU2PTT for 10m Ham Radio Band during August 21, 2017 Solar Eclipse in USA",
+    "id": 851758,
+    "title": "Wideband I/Q Recording at VU2PTT for 20m Ham Radio Band during August 21, 2017 Solar Eclipse in USA",
     "description": "<p>Recorded by Prasad Rajagopal, VU2PTT in Bangalore, India</p>\n\n<p>Location:\u00a0 Latitude 12\u00b058'24.8\"N,\u00a0 Longitude 77\u00b039'15.7\"E</p>\n\n<p>Grid Locator: MK82tx</p>\n\n<p>Recorded using Skimmer Server &amp; CWSL File</p>\n\n<p>Playback: Each time stamped I/Q file is a 15 minute slice and can be played back wi",
     "url": null,
-    "doi": "10.5281/zenodo.883046",
+    "doi": "10.5281/zenodo.851758",
     "keywords": [
-      "hamsci, i/Q, IQ, rbn, sdr, vu2ptt, eclipse, hdsdr , 10m"
+      "hamsci, i/Q, IQ, rbn, sdr, vu2ptt, eclipse, hdsdr, 20m"
     ],
-    "published": "2017-09-01",
+    "published": "2017-08-28",
     "creators": [
       "Rajagopal, Prasad"
     ]
@@ -969,20 +969,6 @@
     ]
   },
   {
-    "id": 848094,
-    "title": "Wideband I/Q Recording at VU2PTT for 80m Ham Radio Band during August 21, 2017 Solar Eclipse in USA",
-    "description": "<p>Recorded by Prasad Rajagopal, VU2PTT in Bangalore, India</p>\n\n<p>Location:\u00a0 Latitude 12\u00b058'24.8\"N,\u00a0 Longitude 77\u00b039'15.7\"E</p>\n\n<p>Grid Locator: MK82tx</p>\n\n<p>Recorded using Skimmer Server &amp; CWSL File</p>\n\n<p>Playback: Each time stamped I/Q file is a 15 minute slice and can be played back wi",
-    "url": null,
-    "doi": "10.5281/zenodo.848094",
-    "keywords": [
-      "hamsci, i/Q, IQ, rbn, sdr, vu2ptt, eclipse, hdsdr, 80m"
-    ],
-    "published": "2017-08-24",
-    "creators": [
-      "Rajagopal, Prasad"
-    ]
-  },
-  {
     "id": 846859,
     "title": "Wideband I/Q Recording at VU2PTT for 160m Ham Radio Band during August 21, 2017 Solar Eclipse in USA",
     "description": "<p>Recorded by Prasad Rajagopal, VU2PTT in Bangalore, India</p>\n\n<p>Location:\u00a0 Latitude 12\u00b058'24.8\"N,\u00a0 Longitude 77\u00b039'15.7\"E</p>\n\n<p>Grid Locator: MK82tx</p>\n\n<p>Recorded using Skimmer Server &amp; CWSL File</p>\n\n<p>Playback: Each time stamped I/Q file is a 15 minute slice and can be played back wi",
@@ -997,17 +983,31 @@
     ]
   },
   {
-    "id": 851758,
-    "title": "Wideband I/Q Recording at VU2PTT for 20m Ham Radio Band during August 21, 2017 Solar Eclipse in USA",
+    "id": 883046,
+    "title": "Wideband I/Q Recording at VU2PTT for 10m Ham Radio Band during August 21, 2017 Solar Eclipse in USA",
     "description": "<p>Recorded by Prasad Rajagopal, VU2PTT in Bangalore, India</p>\n\n<p>Location:\u00a0 Latitude 12\u00b058'24.8\"N,\u00a0 Longitude 77\u00b039'15.7\"E</p>\n\n<p>Grid Locator: MK82tx</p>\n\n<p>Recorded using Skimmer Server &amp; CWSL File</p>\n\n<p>Playback: Each time stamped I/Q file is a 15 minute slice and can be played back wi",
     "url": null,
-    "doi": "10.5281/zenodo.851758",
+    "doi": "10.5281/zenodo.883046",
     "keywords": [
-      "hamsci, i/Q, IQ, rbn, sdr, vu2ptt, eclipse, hdsdr, 20m"
+      "hamsci, i/Q, IQ, rbn, sdr, vu2ptt, eclipse, hdsdr , 10m"
     ],
-    "published": "2017-08-28",
+    "published": "2017-09-01",
     "creators": [
       "Rajagopal, Prasad"
+    ]
+  },
+  {
+    "id": 17201975,
+    "title": "Forensic Evidence Archive \u2014 Positron \u00b7 ISKORKA (Aug\u2013Sep 2025)",
+    "description": "<h2>Forensic Evidence Archive &mdash; Positron &middot; ISKORKA (Aug&ndash;Sep 2025)</h2>\n<h3>Abstract :</h3>\n<h3>This deposit contains a curated forensic evidence package documenting targeted incidents affecting the Positron &middot; ISKORKA project between August and September 2025. The package pr",
+    "url": null,
+    "doi": "10.5281/zenodo.17201975",
+    "keywords": [
+      "forensic, cybersecurity, evidence, supply-chain, incident-response, OpenAI, network-security, Positron, ISKORKA, research-integrity"
+    ],
+    "published": "2025-09-25",
+    "creators": [
+      "Marnov, Maksym"
     ]
   },
   {
@@ -1134,6 +1134,26 @@
     ]
   },
   {
+    "id": 5789064,
+    "title": "AIT Log Data Set V2.0",
+    "description": "<p><strong>AIT Log Data Sets</strong></p>\n<p>This repository contains synthetic log data suitable for evaluation of intrusion detection systems, federated learning, and alert aggregation. A detailed description of the dataset is available in [1]. The logs were collected from eight testbeds that were",
+    "url": null,
+    "doi": "10.5281/zenodo.5789064",
+    "keywords": [
+      "log data",
+      "intrusion detection"
+    ],
+    "published": "2022-02-24",
+    "creators": [
+      "Landauer, Max",
+      "Skopik, Florian",
+      "Frank, Maximilian",
+      "Hotwagner, Wolfgang",
+      "Wurzenberger, Markus",
+      "Rauber, Andreas"
+    ]
+  },
+  {
     "id": 15000588,
     "title": "IoT-SQL Dataset: A Benchmark for Text-to-SQL and IoT Threat Classification",
     "description": "<h1>IoT-SQL Dataset: A Benchmark for Text-to-SQL and IoT Threat Classification</h1>\n<h2>Overview</h2>\n<p>This dataset accompanies the paper:</p>\n<p><strong>\"Beyond Text-to-SQL for IoT Defense: A Comprehensive Framework for Querying and Classifying IoT Threats\"</strong></p>\n<p>Published in <strong>Tr",
@@ -1159,39 +1179,6 @@
     ]
   },
   {
-    "id": 5789064,
-    "title": "AIT Log Data Set V2.0",
-    "description": "<p><strong>AIT Log Data Sets</strong></p>\n<p>This repository contains synthetic log data suitable for evaluation of intrusion detection systems, federated learning, and alert aggregation. A detailed description of the dataset is available in [1]. The logs were collected from eight testbeds that were",
-    "url": null,
-    "doi": "10.5281/zenodo.5789064",
-    "keywords": [
-      "log data",
-      "intrusion detection"
-    ],
-    "published": "2022-02-24",
-    "creators": [
-      "Landauer, Max",
-      "Skopik, Florian",
-      "Frank, Maximilian",
-      "Hotwagner, Wolfgang",
-      "Wurzenberger, Markus",
-      "Rauber, Andreas"
-    ]
-  },
-  {
-    "id": 14010297,
-    "title": "PhishingSet",
-    "description": "<p>The increase in the web is increasing, and in the same proportion, the number of information security incidents has shown notable growth. One of the very common incidents is phishing. CSIRTS (Incident Response Groups) deal with a large number of tickets daily, and identifying possible groups of u",
-    "url": null,
-    "doi": "10.5281/zenodo.14010297",
-    "keywords": [],
-    "published": "2024-10-29",
-    "creators": [
-      "Leandro da Silva Gon\u00e7alves",
-      "Patr\u00edcia do Amaral G. M. Gon\u00e7alves"
-    ]
-  },
-  {
     "id": 13168643,
     "title": "AIT Netflow Data Set",
     "description": "<p><strong>AIT Netflow Data Sets</strong></p>\n<p>This repository contains labeled synthetic netflows suitable for evaluation of intrusion detection systems, federated learning, and alert aggregation. The netflows are generated from the packet captures contained in the <a href=\"http://doi.org/10.5281",
@@ -1208,6 +1195,19 @@
       "Skopik, Florian",
       "Hotwagner, Wolfgang",
       "Wurzenberger, Markus"
+    ]
+  },
+  {
+    "id": 14010297,
+    "title": "PhishingSet",
+    "description": "<p>The increase in the web is increasing, and in the same proportion, the number of information security incidents has shown notable growth. One of the very common incidents is phishing. CSIRTS (Incident Response Groups) deal with a large number of tickets daily, and identifying possible groups of u",
+    "url": null,
+    "doi": "10.5281/zenodo.14010297",
+    "keywords": [],
+    "published": "2024-10-29",
+    "creators": [
+      "Leandro da Silva Gon\u00e7alves",
+      "Patr\u00edcia do Amaral G. M. Gon\u00e7alves"
     ]
   },
   {
@@ -1253,6 +1253,26 @@
     ]
   },
   {
+    "id": 5779411,
+    "title": "Kyoushi Log Data Set",
+    "description": "<p>This repository contains synthetic log data suitable for evaluation of intrusion detection systems. The logs were collected from a testbed that was built at the Austrian Institute of Technology (AIT) following the approaches by [1], [2], and [3]. Please refer to these papers for more detailed inf",
+    "url": null,
+    "doi": "10.5281/zenodo.5779411",
+    "keywords": [
+      "log data",
+      "intrusion detection"
+    ],
+    "published": "2021-12-14",
+    "creators": [
+      "Landauer, Max",
+      "Frank, Maximilian",
+      "Skopik, Florian",
+      "Hotwagner, Wolfgang",
+      "Wurzenberger, Markus",
+      "Rauber, Andreas"
+    ]
+  },
+  {
     "id": 999021,
     "title": "KC0P 40 m SEQP Reverse Beacon Network Log of Spots",
     "description": "<p>Log of the Spots generated by the Reverse Beacon Network of the 40 m transmissions of KC0P during the</p>\n\n<p>SEQP on August 21, 2017.</p>",
@@ -1284,6 +1304,19 @@
     ]
   },
   {
+    "id": 16088526,
+    "title": "Packet captures of login bruteforcing attacks against RabbitMQ MQTT broker via IEEE 802.11p and LTE links.",
+    "description": "<p><span lang=\"EN-US\">We measured and analyzed the throughput of brute-force login attacks carried out against an MQTT broker server (namely RabbitMQ), to assess how efficient these attacks can be. The throughput was measured as the number of passwords per second. To perform the attacks, a command-l",
+    "url": null,
+    "doi": "10.5281/zenodo.16088526",
+    "keywords": [],
+    "published": "2025-07-18",
+    "creators": [
+      "Bandecchi, Dario",
+      "Perazzo, Pericle"
+    ]
+  },
+  {
     "id": 15754906,
     "title": "A Dataset of Research Papers on IoT Attacks and Security Models Published Between 2005 and 2025 in IEEE, Elsevier, Springer, ACM, and MDPI",
     "description": "<p>This dataset of research papers was used in the systematic review paper titled 'A Survey of the Security of IoT Network Layers'. It was compiled by searching for related works in the popular scholarly databases (IEEE, Elsevier, Springer, ACM, and MDPI) using specific keywords relevant to the scop",
@@ -1308,26 +1341,6 @@
     ]
   },
   {
-    "id": 5779411,
-    "title": "Kyoushi Log Data Set",
-    "description": "<p>This repository contains synthetic log data suitable for evaluation of intrusion detection systems. The logs were collected from a testbed that was built at the Austrian Institute of Technology (AIT) following the approaches by [1], [2], and [3]. Please refer to these papers for more detailed inf",
-    "url": null,
-    "doi": "10.5281/zenodo.5779411",
-    "keywords": [
-      "log data",
-      "intrusion detection"
-    ],
-    "published": "2021-12-14",
-    "creators": [
-      "Landauer, Max",
-      "Frank, Maximilian",
-      "Skopik, Florian",
-      "Hotwagner, Wolfgang",
-      "Wurzenberger, Markus",
-      "Rauber, Andreas"
-    ]
-  },
-  {
     "id": 14807844,
     "title": "Smart Home Attack Topology (IPv4)",
     "description": "<p>Smart Home technology is an automation system designed to facilitate household activities through the Internet of Things (IoT). IoT technology enables everyday objects, such as sensors, cameras, and other smart devices, to connect to the Internet. As IoT technology advances, it becomes an attract",
@@ -1344,16 +1357,16 @@
     ]
   },
   {
-    "id": 16088526,
-    "title": "Packet captures of login bruteforcing attacks against RabbitMQ MQTT broker via IEEE 802.11p and LTE links.",
-    "description": "<p><span lang=\"EN-US\">We measured and analyzed the throughput of brute-force login attacks carried out against an MQTT broker server (namely RabbitMQ), to assess how efficient these attacks can be. The throughput was measured as the number of passwords per second. To perform the attacks, a command-l",
+    "id": 15671603,
+    "title": "Evolution of Cyber Threats: The Critical Role of Antivirus in Overcoming Current Digital Security Challenges through Protection Motivation Theory (PMT) and UTAUT",
+    "description": "<p><strong><span>Understanding the drivers of individual cybersecurity behavior has become increasingly critical in the face of escalating digital threats. This study investigates the adoption and usage of antivirus software by integrating the Protection Motivation Theory (PMT) and the Unified Theor",
     "url": null,
-    "doi": "10.5281/zenodo.16088526",
+    "doi": "10.5281/zenodo.15671603",
     "keywords": [],
-    "published": "2025-07-18",
+    "published": "2025-06-16",
     "creators": [
-      "Bandecchi, Dario",
-      "Perazzo, Pericle"
+      "Syamsuar, Dedy",
+      "Putra, Ryan Rajendra"
     ]
   },
   {
@@ -1368,19 +1381,6 @@
     "published": "2023-07-02",
     "creators": [
       "Putra, I Kadek Agus Ariesta"
-    ]
-  },
-  {
-    "id": 15671603,
-    "title": "Evolution of Cyber Threats: The Critical Role of Antivirus in Overcoming Current Digital Security Challenges through Protection Motivation Theory (PMT) and UTAUT",
-    "description": "<p><strong><span>Understanding the drivers of individual cybersecurity behavior has become increasingly critical in the face of escalating digital threats. This study investigates the adoption and usage of antivirus software by integrating the Protection Motivation Theory (PMT) and the Unified Theor",
-    "url": null,
-    "doi": "10.5281/zenodo.15671603",
-    "keywords": [],
-    "published": "2025-06-16",
-    "creators": [
-      "Syamsuar, Dedy",
-      "Putra, Ryan Rajendra"
     ]
   },
   {
@@ -1443,22 +1443,6 @@
     ]
   },
   {
-    "id": 15579213,
-    "title": "Dataset on Phishing Detection Behavior, Communication Intensity, and Security-Related Stress in the Dutch Workforce",
-    "description": "<p>This dataset contains anonymized survey responses from Dutch professionals on phishing detection behavior, communication intensity, and security-related stress. Collected in 2025 via Qualtrics, it includes Likert-scale and demographic variables. Suitable for research in cybersecurity, organizatio",
-    "url": null,
-    "doi": "10.5281/zenodo.15579213",
-    "keywords": [
-      "Security-Related Stress",
-      "Phishing Detection Behavior",
-      "Communication Intensity"
-    ],
-    "published": "2025-06-02",
-    "creators": [
-      "Butt, Hamnah"
-    ]
-  },
-  {
     "id": 13787591,
     "title": "RBD24 - Risk Activities Dataset 2024",
     "description": "<h1>Introduction</h1>\n<p>This repository contains a selection of behavioral datasets collected using soluble agents and labeled using realistic threat simulation and IDS rules. The collected datasets are anonymized and aggregated using time window representations. The dataset generation pipeline pre",
@@ -1472,6 +1456,38 @@
       "Nil, Ortiz",
       "Josep, Escrig",
       "Maxime, Compasti\u00e9"
+    ]
+  },
+  {
+    "id": 8371762,
+    "title": "Generalized Deception Dataset",
+    "description": "<p>We took labeled&nbsp;datasets from five&nbsp;different deception-detection tasks with no licensing issues&nbsp;and converted them to a standard format. We inspected each dataset for quality and generated new cleaned versions.&nbsp;</p>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">Task</th>\n\t\t\t<th ",
+    "url": null,
+    "doi": "10.5281/zenodo.8371762",
+    "keywords": [
+      "domain-independent deception detection"
+    ],
+    "published": "2022-05-25",
+    "creators": [
+      "Zeng, Victor",
+      "Liu, Xuting",
+      "Verma, Rakesh M."
+    ]
+  },
+  {
+    "id": 15579213,
+    "title": "Dataset on Phishing Detection Behavior, Communication Intensity, and Security-Related Stress in the Dutch Workforce",
+    "description": "<p>This dataset contains anonymized survey responses from Dutch professionals on phishing detection behavior, communication intensity, and security-related stress. Collected in 2025 via Qualtrics, it includes Likert-scale and demographic variables. Suitable for research in cybersecurity, organizatio",
+    "url": null,
+    "doi": "10.5281/zenodo.15579213",
+    "keywords": [
+      "Security-Related Stress",
+      "Phishing Detection Behavior",
+      "Communication Intensity"
+    ],
+    "published": "2025-06-02",
+    "creators": [
+      "Butt, Hamnah"
     ]
   },
   {
@@ -1516,22 +1532,6 @@
     ]
   },
   {
-    "id": 8371762,
-    "title": "Generalized Deception Dataset",
-    "description": "<p>We took labeled&nbsp;datasets from five&nbsp;different deception-detection tasks with no licensing issues&nbsp;and converted them to a standard format. We inspected each dataset for quality and generated new cleaned versions.&nbsp;</p>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">Task</th>\n\t\t\t<th ",
-    "url": null,
-    "doi": "10.5281/zenodo.8371762",
-    "keywords": [
-      "domain-independent deception detection"
-    ],
-    "published": "2022-05-25",
-    "creators": [
-      "Zeng, Victor",
-      "Liu, Xuting",
-      "Verma, Rakesh M."
-    ]
-  },
-  {
     "id": 15572895,
     "title": "IRBlock: A Large-Scale Measurement Study of the Great Firewall of Iran (USENIX Security '25) - Artifacts",
     "description": "<p>This is the artifact of the USENIX Security '25 paper \"IRBlock: A Large-Scale Measurement Study of the Great Firewall of Iran\".</p>\n<div>\n<div>Our paper artifacts consists of</div>\n<div>\n<ol>\n<li>Collected list of DNS and HTTP blocked domains (apex and fully-qualified domains)</li>\n<li>Collected ",
@@ -1571,6 +1571,39 @@
     ]
   },
   {
+    "id": 3751335,
+    "title": "Wireshark captures of a residential WLAN testbed",
+    "description": "<p>This dataset contains the Wireshark captures obtained from the WLAN testbed used in the magazine paper entitled &quot;Usage of Network Simulators in Machine-Learning-Assisted 5G/6G Networks&quot;. More details regarding the experimental setup can be found at&nbsp;<a href=\"https://github.com/fwilh",
+    "url": null,
+    "doi": "10.5281/zenodo.3751335",
+    "keywords": [
+      "Testbed",
+      "Wireshark",
+      "WLAN",
+      "Simulator"
+    ],
+    "published": "2020-04-14",
+    "creators": [
+      "Francesc Wilhelmi"
+    ]
+  },
+  {
+    "id": 14884736,
+    "title": "LAMD: Context-driven Android Malware Detection and Classification with LLMs",
+    "description": "<h3>LAMD</h3>\n<p>This dataset is published as part of the paper \"LAMD: Context-driven Android Malware Detection and Classification with LLMs\". It includes the training and testing data, along with the results of testing malware with LAMD.</p>\n<ul>\n<li>The dataset folder contains .csv files of traini",
+    "url": null,
+    "doi": "10.5281/zenodo.14884736",
+    "keywords": [],
+    "published": "2025-02-17",
+    "creators": [
+      "Qian, Xingzhi",
+      "Zheng, Xinran",
+      "He, Yiling",
+      "Yang, Shuo",
+      "Cavallaro, Lorenzo"
+    ]
+  },
+  {
     "id": 439592,
     "title": "chabada",
     "description": "<p>How do we know a program does what it claims to do? After clustering Android apps by their\u00a0<br>\ndescription topics, we identify outliers in each cluster with respect to their API usage. A\u00a0<br>\n\"weather\" app that sends messages thus becomes an anomaly; likewise, a \"messaging\" app would\u00a0<br>\ntypica",
@@ -1600,22 +1633,6 @@
     ]
   },
   {
-    "id": 14885725,
-    "title": "7 Days Later: Analyzing Phishing-Site Lifespan After Detected",
-    "description": "<p>Phishing attacks continue to be a major threat to internet users, causing data breaches, financial losses, and identity theft. This study provides an in-depth analysis of the lifespan and evolution of phishing websites, focusing on their survival strategies and evasion techniques. We analyze 286,",
-    "url": null,
-    "doi": "10.5281/zenodo.14885725",
-    "keywords": [],
-    "published": "2025-02-18",
-    "creators": [
-      "Lim, Kyungchan",
-      "Lee, Kiho",
-      "Kim, Hyoungshick",
-      "Kwon, Yonghwi",
-      "Kim, Doowon"
-    ]
-  },
-  {
     "id": 14028923,
     "title": "Filming the sound: Anomaly Detection on Audio Tape Recordings using Computer Vision Algorithms",
     "description": "<p>This repository makes available the dataset related to the paper:</p>\n<p>Zafer &Ccedil;\u0131nar, Alessandro Russo, Matteo Spanio, Niccol&ograve; Pretto, and Sergio Canazza, <em>Filming the Sound: Anomaly Detection on Audio Tape Recordings using Computer Vision Algorithms</em>, IAI4CH, Bozen, 2024.</p",
@@ -1638,20 +1655,19 @@
     ]
   },
   {
-    "id": 3751335,
-    "title": "Wireshark captures of a residential WLAN testbed",
-    "description": "<p>This dataset contains the Wireshark captures obtained from the WLAN testbed used in the magazine paper entitled &quot;Usage of Network Simulators in Machine-Learning-Assisted 5G/6G Networks&quot;. More details regarding the experimental setup can be found at&nbsp;<a href=\"https://github.com/fwilh",
+    "id": 14885725,
+    "title": "7 Days Later: Analyzing Phishing-Site Lifespan After Detected",
+    "description": "<p>Phishing attacks continue to be a major threat to internet users, causing data breaches, financial losses, and identity theft. This study provides an in-depth analysis of the lifespan and evolution of phishing websites, focusing on their survival strategies and evasion techniques. We analyze 286,",
     "url": null,
-    "doi": "10.5281/zenodo.3751335",
-    "keywords": [
-      "Testbed",
-      "Wireshark",
-      "WLAN",
-      "Simulator"
-    ],
-    "published": "2020-04-14",
+    "doi": "10.5281/zenodo.14885725",
+    "keywords": [],
+    "published": "2025-02-18",
     "creators": [
-      "Francesc Wilhelmi"
+      "Lim, Kyungchan",
+      "Lee, Kiho",
+      "Kim, Hyoungshick",
+      "Kwon, Yonghwi",
+      "Kim, Doowon"
     ]
   },
   {
@@ -1669,22 +1685,6 @@
       "Kwon, Yonghwi",
       "Kim, Hyoungshick",
       "Kim, Doowon"
-    ]
-  },
-  {
-    "id": 14884736,
-    "title": "LAMD: Context-driven Android Malware Detection and Classification with LLMs",
-    "description": "<h3>LAMD</h3>\n<p>This dataset is published as part of the paper \"LAMD: Context-driven Android Malware Detection and Classification with LLMs\". It includes the training and testing data, along with the results of testing malware with LAMD.</p>\n<ul>\n<li>The dataset folder contains .csv files of traini",
-    "url": null,
-    "doi": "10.5281/zenodo.14884736",
-    "keywords": [],
-    "published": "2025-02-17",
-    "creators": [
-      "Qian, Xingzhi",
-      "Zheng, Xinran",
-      "He, Yiling",
-      "Yang, Shuo",
-      "Cavallaro, Lorenzo"
     ]
   },
   {
@@ -1712,25 +1712,6 @@
     ]
   },
   {
-    "id": 13912644,
-    "title": "Dataset for DoS and DDoS Attacks on Digital Meter SICAM via GOOSE Protocol Flooding",
-    "description": "<p>This dataset presents network traffic data from simulated Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks on a Digital Meter SICAM device using the GOOSE protocol. An unauthorized attacker floods the SICAM meter's communication by initially sending 100 GOOSE packets at 1 ",
-    "url": null,
-    "doi": "10.5281/zenodo.13912644",
-    "keywords": [
-      "GOOSE",
-      "DoS",
-      "DDoS",
-      "Cybersecurity"
-    ],
-    "published": "2024-10-10",
-    "creators": [
-      "Enache, Bogdan-Adrian",
-      "Stan, Viorel",
-      "Barbulescu, Cristinel"
-    ]
-  },
-  {
     "id": 4544276,
     "title": "Multimodal Imagery in Forensic Incident Scene Documentation",
     "description": "<p>Collection of data used in the article. The names of packed files refer to the corresponding tables and pictures.</p>",
@@ -1752,6 +1733,25 @@
     ]
   },
   {
+    "id": 13912644,
+    "title": "Dataset for DoS and DDoS Attacks on Digital Meter SICAM via GOOSE Protocol Flooding",
+    "description": "<p>This dataset presents network traffic data from simulated Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks on a Digital Meter SICAM device using the GOOSE protocol. An unauthorized attacker floods the SICAM meter's communication by initially sending 100 GOOSE packets at 1 ",
+    "url": null,
+    "doi": "10.5281/zenodo.13912644",
+    "keywords": [
+      "GOOSE",
+      "DoS",
+      "DDoS",
+      "Cybersecurity"
+    ],
+    "published": "2024-10-10",
+    "creators": [
+      "Enache, Bogdan-Adrian",
+      "Stan, Viorel",
+      "Barbulescu, Cristinel"
+    ]
+  },
+  {
     "id": 4159878,
     "title": "SAPPAN: Combined Network and Host Data",
     "description": "<p>The data were acquired from a small simulated environment&nbsp;consisting&nbsp;of one Windows host (host data collection) and a router that observes all network traffic passing to the host.&nbsp;Two attack scenarios were performed in these small simulated environments, and data relevant to these ",
@@ -1765,24 +1765,6 @@
     "creators": [
       "Cermak, Milan",
       "Obrecht, Mischa"
-    ]
-  },
-  {
-    "id": 15375146,
-    "title": "COMISET: Dataset for the analysis of malicious events in Windows systems",
-    "description": "<p>COMISET is a dataset of security events generated by Microsoft Windows systems in two scenarios: LAB a laboratory emulating the infrastructure of a small company, and REAL a computer network commonly used by students at Comillas University.</p>\n<p>In the laboratory environment, several attacks we",
-    "url": null,
-    "doi": "10.5281/zenodo.15375146",
-    "keywords": [
-      "Threat detection",
-      "Windows Security Events",
-      "MITRE labels"
-    ],
-    "published": "2025-05-09",
-    "creators": [
-      "P\u00e9rez-S\u00e1nchez, Antonio",
-      "Palacios, Rafael",
-      "L\u00f3pez, Gregorio"
     ]
   },
   {
@@ -1867,23 +1849,6 @@
     ]
   },
   {
-    "id": 14014277,
-    "title": "Botnet IoT Traffic Dataset For Smart Buildings",
-    "description": "<p>The <strong>Botnet IoT Traffic Dataset for Smart Buildings</strong> provides network traffic data from Internet of Things (IoT) devices within a smart building environment, specifically capturing data that is affected by botnet activity. This dataset includes both benign and malicious traffic, al",
-    "url": null,
-    "doi": "10.5281/zenodo.14014277",
-    "keywords": [
-      "Cybersecurity",
-      "IoT",
-      "Botnet",
-      "IDS"
-    ],
-    "published": "2024-10-30",
-    "creators": [
-      "Craciun, Robert"
-    ]
-  },
-  {
     "id": 13912161,
     "title": "Dataset for Unauthorized Access Attacks on Digital Meter SICAM via TCP/IP Communication",
     "description": "<p>This dataset captures network traffic involving unauthorized access attacks on a Digital Meter SICAM device within a controlled test environment. It includes both normal operations and simulated attacks over TCP/IP communication. The clean traffic records legitimate interactions between the Contr",
@@ -1895,6 +1860,24 @@
       "Enache, Bogdan-Adrian",
       "Barbulescu, Cristinel",
       "Stan, Viorel"
+    ]
+  },
+  {
+    "id": 15375146,
+    "title": "COMISET: Dataset for the analysis of malicious events in Windows systems",
+    "description": "<p>COMISET is a dataset of security events generated by Microsoft Windows systems in two scenarios: LAB a laboratory emulating the infrastructure of a small company, and REAL a computer network commonly used by students at Comillas University.</p>\n<p>In the laboratory environment, several attacks we",
+    "url": null,
+    "doi": "10.5281/zenodo.15375146",
+    "keywords": [
+      "Threat detection",
+      "Windows Security Events",
+      "MITRE labels"
+    ],
+    "published": "2025-05-09",
+    "creators": [
+      "P\u00e9rez-S\u00e1nchez, Antonio",
+      "Palacios, Rafael",
+      "L\u00f3pez, Gregorio"
     ]
   },
   {
@@ -2050,6 +2033,25 @@
     ]
   },
   {
+    "id": 3254443,
+    "title": "Webis-Mnemonics-17",
+    "description": "<p>The Webis-Mnemonics-17 corpus is a collection of 1048 human-chosen sentences for password generation and memorization (so-called mnemonics). It is designed to test hypotheses on statistical properties of such mnemonics.</p>",
+    "url": null,
+    "doi": "10.5281/zenodo.3254443",
+    "keywords": [
+      "mnemonics",
+      "password",
+      "password generation",
+      "password memorization"
+    ],
+    "published": "2017-03-01",
+    "creators": [
+      "Kiesel, Johannes",
+      "Stein, Benno",
+      "Lucks, Stefan"
+    ]
+  },
+  {
     "id": 4025292,
     "title": "Evolved differences in energy metabolism and growth dictate the impacts of ocean acidification on abalone aquaculture",
     "description": "<p>Ocean acidification (OA) poses a major threat to marine ecosystems and shellfish aquaculture. A promising mitigation strategy is the identification and breeding of shellfish varieties exhibiting resilience to acidification stress. We experimentally compared the effects of OA on two populations of",
@@ -2072,25 +2074,6 @@
     ]
   },
   {
-    "id": 3254443,
-    "title": "Webis-Mnemonics-17",
-    "description": "<p>The Webis-Mnemonics-17 corpus is a collection of 1048 human-chosen sentences for password generation and memorization (so-called mnemonics). It is designed to test hypotheses on statistical properties of such mnemonics.</p>",
-    "url": null,
-    "doi": "10.5281/zenodo.3254443",
-    "keywords": [
-      "mnemonics",
-      "password",
-      "password generation",
-      "password memorization"
-    ],
-    "published": "2017-03-01",
-    "creators": [
-      "Kiesel, Johannes",
-      "Stein, Benno",
-      "Lucks, Stefan"
-    ]
-  },
-  {
     "id": 11209991,
     "title": "Agricultural Vulnerability to Climate Change: A Critical Review of Evolving Assessment Approaches",
     "description": "<p>The cumulative negative effects of climate change make agriculture increasingly vulnerable, with severe food security challenges, especially for developing nations. A robust research approach and a logical methodical framework can holistically assess the occurrence and intensity of agricultural v",
@@ -2100,6 +2083,25 @@
     "published": "2023-04-13",
     "creators": [
       "Hossain, Sk Mosharaf"
+    ]
+  },
+  {
+    "id": 15835780,
+    "title": "Global Generative AI in IT Operations Market 2025 To 2034",
+    "description": "<p>Generative AI in IT Operations Market Size, Trends and Insights By Component (Software, Services), By Deployment Mode (Cloud-Based, On-Premises, Hybrid), By Enterprise Size (Small and Medium Enterprises (SMEs), Large Enterprises), By Application (Anomaly Detection &amp; Incident Management, Root ",
+    "url": null,
+    "doi": "10.5281/zenodo.15835780",
+    "keywords": [
+      "Generative AI in IT Operations Market",
+      "Generative AI in IT Operations Market Size",
+      "Generative AI in IT Operations Market Share",
+      "Generative AI in IT Operations Market Trends",
+      "Generative AI in IT Operations Market Reports",
+      "Generative AI in IT Operations Market Research"
+    ],
+    "published": "2025-07-04",
+    "creators": [
+      "Sirsat, Nitin"
     ]
   },
   {
@@ -2115,6 +2117,23 @@
     "creators": [
       "Silvia Maria Alfieri",
       "Massimo Menenti"
+    ]
+  },
+  {
+    "id": 14014277,
+    "title": "Botnet IoT Traffic Dataset For Smart Buildings",
+    "description": "<p>The <strong>Botnet IoT Traffic Dataset for Smart Buildings</strong> provides network traffic data from Internet of Things (IoT) devices within a smart building environment, specifically capturing data that is affected by botnet activity. This dataset includes both benign and malicious traffic, al",
+    "url": null,
+    "doi": "10.5281/zenodo.14014277",
+    "keywords": [
+      "Cybersecurity",
+      "IoT",
+      "Botnet",
+      "IDS"
+    ],
+    "published": "2024-10-30",
+    "creators": [
+      "Craciun, Robert"
     ]
   },
   {
@@ -2142,25 +2161,6 @@
     ]
   },
   {
-    "id": 15835780,
-    "title": "Global Generative AI in IT Operations Market 2025 To 2034",
-    "description": "<p>Generative AI in IT Operations Market Size, Trends and Insights By Component (Software, Services), By Deployment Mode (Cloud-Based, On-Premises, Hybrid), By Enterprise Size (Small and Medium Enterprises (SMEs), Large Enterprises), By Application (Anomaly Detection &amp; Incident Management, Root ",
-    "url": null,
-    "doi": "10.5281/zenodo.15835780",
-    "keywords": [
-      "Generative AI in IT Operations Market",
-      "Generative AI in IT Operations Market Size",
-      "Generative AI in IT Operations Market Share",
-      "Generative AI in IT Operations Market Trends",
-      "Generative AI in IT Operations Market Reports",
-      "Generative AI in IT Operations Market Research"
-    ],
-    "published": "2025-07-04",
-    "creators": [
-      "Sirsat, Nitin"
-    ]
-  },
-  {
     "id": 17121740,
     "title": "SDN traffic data collected from self-generated TCP SYN Flood DDoS attack within 2 hosts, 1 switch network and from public dataset CIC-DDoS2019 in 2025",
     "description": "<p>These data consist of network packets collected from a self-generated TCP SYN Flood attack resembling common DDoS attack in SDN. They came from a simple 2 host, 1 switch network, where one host (attacker) repeatedly sent meaningless information to the other (victim) using randomized source addres",
@@ -2172,6 +2172,32 @@
       "Antonio, Alfred",
       "Jonathan, Djoko",
       "Leon Saputra, Rexi"
+    ]
+  },
+  {
+    "id": 10198451,
+    "title": "DATASET Log Parsing: How Far Can Llama-2 Go?",
+    "description": "<p>We have employed datasets sourced from LogPAI (Log Parsing and Anomaly Detection), a research-oriented platform dedicated to addressing anomaly detection and log data analysis challenges. To our knowledge, this is the most extensive compilation of log datasets. LogPAI have made every effort to ke",
+    "url": null,
+    "doi": "10.5281/zenodo.10198451",
+    "keywords": [],
+    "published": "2023-06-02",
+    "creators": [
+      "LOGPAI"
+    ]
+  },
+  {
+    "id": 12773446,
+    "title": "Experimenting with Adaptive Bitrate Algorithms for Virtual Reality Streaming over Wi-Fi",
+    "description": "<p>Dataset of resulting files from capturing VR traffic in Wi-Fi 6 of a fork of the Air Light Virtual Reality (ALVR) software, used to stream games from a PC to a VR HMD in real time. The dataset includes:&nbsp;</p>\n<ul>\n<li>Parsed Wireshark captures in TSV format, both captured from server and netw",
+    "url": null,
+    "doi": "10.5281/zenodo.12773446",
+    "keywords": [],
+    "published": "2024-07-11",
+    "creators": [
+      "Maura, Ferran",
+      "Casasnovas, Miguel",
+      "Bellalta, Boris"
     ]
   },
   {
@@ -2188,77 +2214,6 @@
     "published": "2025-06-20",
     "creators": [
       "Benzaid, Chafika"
-    ]
-  },
-  {
-    "id": 10198451,
-    "title": "DATASET Log Parsing: How Far Can Llama-2 Go?",
-    "description": "<p>We have employed datasets sourced from LogPAI (Log Parsing and Anomaly Detection), a research-oriented platform dedicated to addressing anomaly detection and log data analysis challenges. To our knowledge, this is the most extensive compilation of log datasets. LogPAI have made every effort to ke",
-    "url": null,
-    "doi": "10.5281/zenodo.10198451",
-    "keywords": [],
-    "published": "2023-06-02",
-    "creators": [
-      "LOGPAI"
-    ]
-  },
-  {
-    "id": 8111592,
-    "title": "EDoS_Network_Slicing_K8S",
-    "description": "<p>The dataset includes raw resource usage and service performance metrics collected from CNFs of vCDN slices deployed on a cloud-native platform (kubernetes). The The dataset serves to train ML models for mitigating EDoS attacks by detecting anomalous resource scaling operations caused by applicati",
-    "url": null,
-    "doi": "10.5281/zenodo.8111592",
-    "keywords": [
-      "EDoS Mitigation",
-      "Application-Layer DDoS Attacks",
-      "Cloud-Native Network Slicing",
-      "5G and Beyond Networks"
-    ],
-    "published": "2023-07-03",
-    "creators": [
-      "Chafika Benzaid"
-    ]
-  },
-  {
-    "id": 15125800,
-    "title": "FCG-MFD: Benchmark function call graph-based dataset for malware family detection",
-    "description": "<p>Cyber crimes related to malware families are on the rise. This growth persists despite the prevalence of various antivirus software and approaches for malware detection and classification. Security experts have implemented Machine Learning (ML) techniques to identify these cyber-crimes. However, ",
-    "url": null,
-    "doi": "10.1016/j.jnca.2024.104050",
-    "keywords": [
-      "Malware Detection",
-      "Malware family classification",
-      "Function Call Graph",
-      "Reverse Engineering",
-      "Deep Learning"
-    ],
-    "published": "2025-04-02",
-    "creators": [
-      "Hassan Jalil Hadi"
-    ]
-  },
-  {
-    "id": 7688995,
-    "title": "Medication and condition codes used to develop a computable phenotype for Crohn's Disease incident cases",
-    "description": "<p>Lists of medication and condition concepts used for Crohn&#39;s disease incident case phenotyping as described in my Master&#39;s Thesis &quot;Machine Learning Based Prediction of Incident Cases of Crohn&rsquo;s Disease Using Electronic Health Records From a Large Integrated Health System&quot;.<",
-    "url": null,
-    "doi": "10.5281/zenodo.7688995",
-    "keywords": [],
-    "published": "2023-03-03",
-    "creators": [
-      "Hugo, Julian"
-    ]
-  },
-  {
-    "id": 17164806,
-    "title": "Supply Chain Incidents Dataset",
-    "description": "<p>An elementary dataset that organizes the findings in a structured, machine-readable format, facilitating further research and analysis including threat intelligence, incident response planning, and predictive analytics based on the documented real-world incidents.</p>",
-    "url": null,
-    "doi": "10.5281/zenodo.17164806",
-    "keywords": [],
-    "published": "2025-09-20",
-    "creators": [
-      "Kampourakis, Vyron"
     ]
   },
   {
@@ -2287,20 +2242,6 @@
     ]
   },
   {
-    "id": 12773446,
-    "title": "Experimenting with Adaptive Bitrate Algorithms for Virtual Reality Streaming over Wi-Fi",
-    "description": "<p>Dataset of resulting files from capturing VR traffic in Wi-Fi 6 of a fork of the Air Light Virtual Reality (ALVR) software, used to stream games from a PC to a VR HMD in real time. The dataset includes:&nbsp;</p>\n<ul>\n<li>Parsed Wireshark captures in TSV format, both captured from server and netw",
-    "url": null,
-    "doi": "10.5281/zenodo.12773446",
-    "keywords": [],
-    "published": "2024-07-11",
-    "creators": [
-      "Maura, Ferran",
-      "Casasnovas, Miguel",
-      "Bellalta, Boris"
-    ]
-  },
-  {
     "id": 205950,
     "title": "Webis-Simple-Sentences-17 Corpus",
     "description": "<p>A corpus of 471,085,690 English sentences extracted from the ClueWeb12 Web Crawl. The sentences were sampled from a larger corpus to achieve a level of sentence complexity similar to the one of sentences that humans make up as a memory aid for remembering passwords. Sentence complexity was determ",
@@ -2323,18 +2264,80 @@
     ]
   },
   {
-    "id": 6365047,
-    "title": "Relationship-Based Threat Modeling: Evaluation Data",
-    "description": "<p>The full data sets used for the evaluation of our Relationship-Based Threat Modeling approach, as described in our recent submission to EnCyCriS 2022.<br>\nStef Verreydt, Laurens Sion, Koen Yskout, and Wouter Joosen. 2022. Relationship-Based Threat Modeling. In The 3rd International Workshop on En",
+    "id": 15125800,
+    "title": "FCG-MFD: Benchmark function call graph-based dataset for malware family detection",
+    "description": "<p>Cyber crimes related to malware families are on the rise. This growth persists despite the prevalence of various antivirus software and approaches for malware detection and classification. Security experts have implemented Machine Learning (ML) techniques to identify these cyber-crimes. However, ",
     "url": null,
-    "doi": "10.5281/zenodo.6365047",
-    "keywords": [],
-    "published": "2022-03-17",
+    "doi": "10.1016/j.jnca.2024.104050",
+    "keywords": [
+      "Malware Detection",
+      "Malware family classification",
+      "Function Call Graph",
+      "Reverse Engineering",
+      "Deep Learning"
+    ],
+    "published": "2025-04-02",
     "creators": [
-      "Verreydt, Stef",
-      "Sion, Laurens",
-      "Yskout, Koen",
-      "Joosen, Wouter"
+      "Hassan Jalil Hadi"
+    ]
+  },
+  {
+    "id": 8111592,
+    "title": "EDoS_Network_Slicing_K8S",
+    "description": "<p>The dataset includes raw resource usage and service performance metrics collected from CNFs of vCDN slices deployed on a cloud-native platform (kubernetes). The The dataset serves to train ML models for mitigating EDoS attacks by detecting anomalous resource scaling operations caused by applicati",
+    "url": null,
+    "doi": "10.5281/zenodo.8111592",
+    "keywords": [
+      "EDoS Mitigation",
+      "Application-Layer DDoS Attacks",
+      "Cloud-Native Network Slicing",
+      "5G and Beyond Networks"
+    ],
+    "published": "2023-07-03",
+    "creators": [
+      "Chafika Benzaid"
+    ]
+  },
+  {
+    "id": 7688995,
+    "title": "Medication and condition codes used to develop a computable phenotype for Crohn's Disease incident cases",
+    "description": "<p>Lists of medication and condition concepts used for Crohn&#39;s disease incident case phenotyping as described in my Master&#39;s Thesis &quot;Machine Learning Based Prediction of Incident Cases of Crohn&rsquo;s Disease Using Electronic Health Records From a Large Integrated Health System&quot;.<",
+    "url": null,
+    "doi": "10.5281/zenodo.7688995",
+    "keywords": [],
+    "published": "2023-03-03",
+    "creators": [
+      "Hugo, Julian"
+    ]
+  },
+  {
+    "id": 17164806,
+    "title": "Supply Chain Incidents Dataset",
+    "description": "<p>An elementary dataset that organizes the findings in a structured, machine-readable format, facilitating further research and analysis including threat intelligence, incident response planning, and predictive analytics based on the documented real-world incidents.</p>",
+    "url": null,
+    "doi": "10.5281/zenodo.17164806",
+    "keywords": [],
+    "published": "2025-09-20",
+    "creators": [
+      "Kampourakis, Vyron"
+    ]
+  },
+  {
+    "id": 7609780,
+    "title": "Spark Data containing logs and metrics (KPIs) for Hades",
+    "description": "<p>Please make sure to cite our paper whenever you use the data in your research:</p><p>@inproceedings{DBLP:conf/icse/LeeYCSYL23,\n &nbsp;author &nbsp; &nbsp; &nbsp; = {Cheryl Lee and\n &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tianyi Yang and\n &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+    "url": null,
+    "doi": "10.5281/zenodo.7609780",
+    "keywords": [
+      "Software",
+      "Spark",
+      "Anomaly",
+      "Metric",
+      "Log"
+    ],
+    "published": "2023-02-06",
+    "creators": [
+      "Cheryl Lee"
     ]
   },
   {
@@ -2366,24 +2369,6 @@
     ]
   },
   {
-    "id": 7609780,
-    "title": "Spark Data containing logs and metrics (KPIs) for Hades",
-    "description": "<p>Please make sure to cite our paper whenever you use the data in your research:</p><p>@inproceedings{DBLP:conf/icse/LeeYCSYL23,\n &nbsp;author &nbsp; &nbsp; &nbsp; = {Cheryl Lee and\n &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tianyi Yang and\n &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
-    "url": null,
-    "doi": "10.5281/zenodo.7609780",
-    "keywords": [
-      "Software",
-      "Spark",
-      "Anomaly",
-      "Metric",
-      "Log"
-    ],
-    "published": "2023-02-06",
-    "creators": [
-      "Cheryl Lee"
-    ]
-  },
-  {
     "id": 12960228,
     "title": "Dataset for KIOS CoE Sandboxing use-case SUC4 corresponding to cyber attacks affecting the Coordinated Overcurrent Protection Scheme (IEC 61850 GOOSE)",
     "description": "<p><span>The datasets reflect on two main scenarios (S1-S2) related to SUC4 - corresponding to cyber attacks affecting the Coordinated Overcurrent Protection Scheme.&nbsp;</span><span>The first scenario explores the response of the coordinated overcurrent protection when circuit breakers (CBs) are h",
@@ -2404,20 +2389,18 @@
     ]
   },
   {
-    "id": 5023540,
-    "title": "Data from: Effects of chronic anthropogenic disturbance and rainfall on the specialization of ant-plant mutualistic networks in the Caatinga, a Brazilian dry forest",
-    "description": "1. Anthropogenic disturbance and climate change might negatively affect the ecosystem services provided by mutualistic networks. However, the effects of such forces remain poorly characterized. They may be especially important in dry forests, which (1) experience chronic anthropogenic disturbances (",
+    "id": 6365047,
+    "title": "Relationship-Based Threat Modeling: Evaluation Data",
+    "description": "<p>The full data sets used for the evaluation of our Relationship-Based Threat Modeling approach, as described in our recent submission to EnCyCriS 2022.<br>\nStef Verreydt, Laurens Sion, Koen Yskout, and Wouter Joosen. 2022. Relationship-Based Threat Modeling. In The 3rd International Workshop on En",
     "url": null,
-    "doi": "10.5061/dryad.g7m7c70",
+    "doi": "10.5281/zenodo.6365047",
     "keywords": [],
-    "published": "2019-02-13",
+    "published": "2022-03-17",
     "creators": [
-      "C\u00e2mara, Talita",
-      "Leal, Inara R.",
-      "Bl\u00fcthgen, Nico",
-      "Oliveira, Fernanda M. P.",
-      "de Queiroz, Rubens T.",
-      "Arnan, Xavier"
+      "Verreydt, Stef",
+      "Sion, Laurens",
+      "Yskout, Koen",
+      "Joosen, Wouter"
     ]
   },
   {
@@ -2467,6 +2450,23 @@
     ]
   },
   {
+    "id": 5023540,
+    "title": "Data from: Effects of chronic anthropogenic disturbance and rainfall on the specialization of ant-plant mutualistic networks in the Caatinga, a Brazilian dry forest",
+    "description": "1. Anthropogenic disturbance and climate change might negatively affect the ecosystem services provided by mutualistic networks. However, the effects of such forces remain poorly characterized. They may be especially important in dry forests, which (1) experience chronic anthropogenic disturbances (",
+    "url": null,
+    "doi": "10.5061/dryad.g7m7c70",
+    "keywords": [],
+    "published": "2019-02-13",
+    "creators": [
+      "C\u00e2mara, Talita",
+      "Leal, Inara R.",
+      "Bl\u00fcthgen, Nico",
+      "Oliveira, Fernanda M. P.",
+      "de Queiroz, Rubens T.",
+      "Arnan, Xavier"
+    ]
+  },
+  {
     "id": 12741129,
     "title": "Compliance Graph Network Files and Exploit Models",
     "description": "<p><em>Description provided from the abstract of the corresponding manuscript.</em></p>\n<p>Compliance graphs provide the ability to analyze an environment in terms of its standing to a regulation, mandate, or standard. These graphs are directed acyclic graphs, and share commonalities with attack gra",
@@ -2480,20 +2480,6 @@
     "creators": [
       "Schrick, Noah",
       "Hawrylak, Peter"
-    ]
-  },
-  {
-    "id": 15096167,
-    "title": "Hourly Anomaly Scores and Leak Labels from a Multi-Source Urban Water Distribution Network Dataset",
-    "description": "<p>Dataset: Hourly Anomaly Scores and Leak Labels from a Multi-Source Urban Water Distribution Network Dataset</p>\n<p>Description:<br>This dataset includes hourly time series from an anonymized urban Water Distribution Network (WDN), combining SCADA sensor readings, operational energy usage, and env",
-    "url": null,
-    "doi": "10.5281/zenodo.15096167",
-    "keywords": [],
-    "published": "2025-03-27",
-    "creators": [
-      "Jan, Babela",
-      "Munk, Michal",
-      "Munkova, Dasa"
     ]
   },
   {
@@ -2520,6 +2506,20 @@
       "Hanajima, Ritsuko",
       "Ugawa, Yoshikazu",
       "Konishi, Seiki"
+    ]
+  },
+  {
+    "id": 15096167,
+    "title": "Hourly Anomaly Scores and Leak Labels from a Multi-Source Urban Water Distribution Network Dataset",
+    "description": "<p>Dataset: Hourly Anomaly Scores and Leak Labels from a Multi-Source Urban Water Distribution Network Dataset</p>\n<p>Description:<br>This dataset includes hourly time series from an anonymized urban Water Distribution Network (WDN), combining SCADA sensor readings, operational energy usage, and env",
+    "url": null,
+    "doi": "10.5281/zenodo.15096167",
+    "keywords": [],
+    "published": "2025-03-27",
+    "creators": [
+      "Jan, Babela",
+      "Munk, Michal",
+      "Munkova, Dasa"
     ]
   },
   {
@@ -2558,28 +2558,41 @@
     ]
   },
   {
-    "id": 11179997,
-    "title": "Outliers and Missing Gait_Human, IDS, JavaScript vulnerability Datasets",
-    "description": "<p>Human Gait Dataset (CASIA-A) [1] is available at: http://www.cbsr.ia.ac.cn/english/Gait\\%20Databases.asp, JavaScript vulnerability<br>dataset is publicly available at [2] and KDD CUP 99 dataset is publicly available at [3].</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>[1] Wang L, Tan T, Ning H, Hu W. Silho",
+    "id": 8111635,
+    "title": "IoT Emulated Dataset for ICMP/Ping Normal and Malicious Traffic",
+    "description": "<p>These datasets are related to Intrusion Detection System, Computer Network Traffic and IoT.</p>\n<p>These datasets are generated for the purpose of differentiating <strong>ICMP/Ping normal and malicious traffic </strong>that are generated from an embedded device (IoT). The differentiation analysis",
     "url": null,
-    "doi": "10.5281/zenodo.11179997",
-    "keywords": [],
-    "published": "2024-05-12",
+    "doi": "10.5281/zenodo.8111635",
+    "keywords": [
+      "ICMP flood, Ping flood, Machine learning, IoT, IoT devices, Zeek, Flow information."
+    ],
+    "published": "2023-07-04",
     "creators": [
-      "Sheneamer, Abdullah"
+      "Almorabea, Omar",
+      "Khanzada, Tariq",
+      "Aslam, Muhammad",
+      "Hendi, Fatheah",
+      "Almorabea, Ahmad"
     ]
   },
   {
-    "id": 13759832,
-    "title": "Data for \"Mitigation strategies can alleviate power system vulnerability to climate change and extreme weather: A case study on the Italian grid\"",
-    "description": "<p>Data employed for the paper \"Mitigation strategies can alleviate power system vulnerability to climate change and extreme weather: A case study on the Italian grid\"<br><br>Abstract<br>This study explores compounding impacts of climate change on power system's load and generation, emphasising the ",
+    "id": 7034534,
+    "title": "Dataset for Network Intrusion Detection System on SCADA IEC 60870-5-104",
+    "description": "<p>Security is the main challenge in Supervisory Control and Data Acquisition (SCADA) systems since SCADA systems must be connected to heterogeneous networks to save costs. SCADA devices such as RTUs have limited resources, so a small-scale cyber attack on a computer network will have a major impact",
     "url": null,
-    "doi": "10.5281/zenodo.13759832",
-    "keywords": [],
-    "published": "2024-09-13",
+    "doi": "10.5281/zenodo.7034534",
+    "keywords": [
+      "Supervisory Control and Data Acquisition  (SCADA)",
+      "Intrusion Detection System (IDS)",
+      "IEC 60870-5-104"
+    ],
+    "published": "2022-08-30",
     "creators": [
-      "Di Bella, Alice",
-      "Colelli, Francesco Pietro"
+      "M. Agus Syamsul Arifin",
+      "Deris Stiawan",
+      "Susanto",
+      "Rahmat Budiarto",
+      "Mohd Yazid Idris"
     ]
   },
   {
@@ -2604,41 +2617,40 @@
     ]
   },
   {
-    "id": 7034534,
-    "title": "Dataset for Network Intrusion Detection System on SCADA IEC 60870-5-104",
-    "description": "<p>Security is the main challenge in Supervisory Control and Data Acquisition (SCADA) systems since SCADA systems must be connected to heterogeneous networks to save costs. SCADA devices such as RTUs have limited resources, so a small-scale cyber attack on a computer network will have a major impact",
+    "id": 13759832,
+    "title": "Data for \"Mitigation strategies can alleviate power system vulnerability to climate change and extreme weather: A case study on the Italian grid\"",
+    "description": "<p>Data employed for the paper \"Mitigation strategies can alleviate power system vulnerability to climate change and extreme weather: A case study on the Italian grid\"<br><br>Abstract<br>This study explores compounding impacts of climate change on power system's load and generation, emphasising the ",
     "url": null,
-    "doi": "10.5281/zenodo.7034534",
-    "keywords": [
-      "Supervisory Control and Data Acquisition  (SCADA)",
-      "Intrusion Detection System (IDS)",
-      "IEC 60870-5-104"
-    ],
-    "published": "2022-08-30",
+    "doi": "10.5281/zenodo.13759832",
+    "keywords": [],
+    "published": "2024-09-13",
     "creators": [
-      "M. Agus Syamsul Arifin",
-      "Deris Stiawan",
-      "Susanto",
-      "Rahmat Budiarto",
-      "Mohd Yazid Idris"
+      "Di Bella, Alice",
+      "Colelli, Francesco Pietro"
     ]
   },
   {
-    "id": 8111635,
-    "title": "IoT Emulated Dataset for ICMP/Ping Normal and Malicious Traffic",
-    "description": "<p>These datasets are related to Intrusion Detection System, Computer Network Traffic and IoT.</p>\n<p>These datasets are generated for the purpose of differentiating <strong>ICMP/Ping normal and malicious traffic </strong>that are generated from an embedded device (IoT). The differentiation analysis",
+    "id": 11179997,
+    "title": "Outliers and Missing Gait_Human, IDS, JavaScript vulnerability Datasets",
+    "description": "<p>Human Gait Dataset (CASIA-A) [1] is available at: http://www.cbsr.ia.ac.cn/english/Gait\\%20Databases.asp, JavaScript vulnerability<br>dataset is publicly available at [2] and KDD CUP 99 dataset is publicly available at [3].</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>[1] Wang L, Tan T, Ning H, Hu W. Silho",
     "url": null,
-    "doi": "10.5281/zenodo.8111635",
-    "keywords": [
-      "ICMP flood, Ping flood, Machine learning, IoT, IoT devices, Zeek, Flow information."
-    ],
-    "published": "2023-07-04",
+    "doi": "10.5281/zenodo.11179997",
+    "keywords": [],
+    "published": "2024-05-12",
     "creators": [
-      "Almorabea, Omar",
-      "Khanzada, Tariq",
-      "Aslam, Muhammad",
-      "Hendi, Fatheah",
-      "Almorabea, Ahmad"
+      "Sheneamer, Abdullah"
+    ]
+  },
+  {
+    "id": 10199144,
+    "title": "Dataset for Log Parsing: How Far Can Llama-2 and ChatGpt Go?",
+    "description": "<p>We present the results of our method on a new version of this benchmark, which has 2,000 log messages with manual annotations. we choose Loghub as it is a public resource of system logs for AI-based log analysis research. It contains logs from real and lab systems, without any changes or modifica",
+    "url": null,
+    "doi": "10.5281/zenodo.10199144",
+    "keywords": [],
+    "published": "2023-11-23",
+    "creators": [
+      "LOGPAI"
     ]
   },
   {
@@ -2651,6 +2663,18 @@
     "published": "2025-09-09",
     "creators": [
       "Chrysanthou, Chrysanthos"
+    ]
+  },
+  {
+    "id": 17199610,
+    "title": "Artifacts for Binary Diff Summarization using Large Language Models",
+    "description": "<p># Artifacts for Binary Diff Summarization using Large Language Models</p>\n<p>## Folder structure</p>\n<p>&nbsp;- &lt;program&gt;<br>&nbsp; &nbsp;- &lt;program&gt;-clean-&lt;version1&gt;-&lt;malware&gt;-&lt;version2&gt;<br>&nbsp; &nbsp; &nbsp;- changelog.txt: changelog extracted from source or webs",
+    "url": null,
+    "doi": "10.5281/zenodo.17199610",
+    "keywords": [],
+    "published": "2025-09-25",
+    "creators": [
+      "Anonymous"
     ]
   },
   {
@@ -2676,18 +2700,6 @@
     ]
   },
   {
-    "id": 10199144,
-    "title": "Dataset for Log Parsing: How Far Can Llama-2 and ChatGpt Go?",
-    "description": "<p>We present the results of our method on a new version of this benchmark, which has 2,000 log messages with manual annotations. we choose Loghub as it is a public resource of system logs for AI-based log analysis research. It contains logs from real and lab systems, without any changes or modifica",
-    "url": null,
-    "doi": "10.5281/zenodo.10199144",
-    "keywords": [],
-    "published": "2023-11-23",
-    "creators": [
-      "LOGPAI"
-    ]
-  },
-  {
     "id": 14907786,
     "title": "You Can't Touch This: Detecting Typosquatting Packages for Enhanced Malware Prevention in Software Supply Chains",
     "description": "<p><strong>Short Summary</strong></p>\n<p>This repository includes the following datasets:</p>\n<ul>\n<li><strong>Own Dataset</strong>: A collection of 394 with source code typosquatting packages we have collected based on SonaType, Phylum.io and Snyk listings.</li>\n<li><strong>Backstabbers Knife Colle",
@@ -2706,53 +2718,6 @@
       "Truong, Minh Tien",
       "Gruschka, Nils",
       "Lo Iacono, Luigi"
-    ]
-  },
-  {
-    "id": 17199610,
-    "title": "Artifacts for Binary Diff Summarization using Large Language Models",
-    "description": "<p># Artifacts for Binary Diff Summarization using Large Language Models</p>\n<p>## Folder structure</p>\n<p>&nbsp;- &lt;program&gt;<br>&nbsp; &nbsp;- &lt;program&gt;-clean-&lt;version1&gt;-&lt;malware&gt;-&lt;version2&gt;<br>&nbsp; &nbsp; &nbsp;- changelog.txt: changelog extracted from source or webs",
-    "url": null,
-    "doi": "10.5281/zenodo.17199610",
-    "keywords": [],
-    "published": "2025-09-25",
-    "creators": [
-      "Anonymous"
-    ]
-  },
-  {
-    "id": 4016794,
-    "title": "Data Supporting Uplift Mechanism of the Highest Mountains at Eastern Himalayan Syntaxis Revealed by in Situ Dense Gravimetry",
-    "description": "<p>The data of the gravity observation network at the Eastern Himalayan Syntaxis, which include Longitude, Latitude, Elevation, Free-Air gravity anomaly (FGA), Bouguer gravity anomaly (BGA), and Moho depth.&nbsp;These&nbsp;data are shown in&nbsp;Figure 1, Figure 2, and Figure 3.</p>",
-    "url": null,
-    "doi": "10.5281/zenodo.4016794",
-    "keywords": [
-      "gravity anomalies"
-    ],
-    "published": "2020-09-06",
-    "creators": [
-      "Yawen She",
-      "Guangyu Fu"
-    ]
-  },
-  {
-    "id": 4960473,
-    "title": "Data from: Climate-niche factor analysis: a spatial approach to quantifying species vulnerability to climate change",
-    "description": "Climate change vulnerability assessments are an important tool for understanding the threat that climate change poses to species and populations, but do not generally yield insight into the spatial variation in vulnerability throughout a species' habitat. We demonstrate how to adapt the method of ec",
-    "url": null,
-    "doi": "10.5061/dryad.qb2s9f2",
-    "keywords": [
-      "Ochotona princeps",
-      "exposure",
-      "climate change vulnerability",
-      "ecological-niche factor analysis",
-      "sensitivity",
-      "Marmota flaviventris"
-    ],
-    "published": "2019-04-22",
-    "creators": [
-      "Rinnan, D. Scott",
-      "Lawler, Josh"
     ]
   },
   {
@@ -2789,6 +2754,26 @@
     ]
   },
   {
+    "id": 4960473,
+    "title": "Data from: Climate-niche factor analysis: a spatial approach to quantifying species vulnerability to climate change",
+    "description": "Climate change vulnerability assessments are an important tool for understanding the threat that climate change poses to species and populations, but do not generally yield insight into the spatial variation in vulnerability throughout a species' habitat. We demonstrate how to adapt the method of ec",
+    "url": null,
+    "doi": "10.5061/dryad.qb2s9f2",
+    "keywords": [
+      "Ochotona princeps",
+      "exposure",
+      "climate change vulnerability",
+      "ecological-niche factor analysis",
+      "sensitivity",
+      "Marmota flaviventris"
+    ],
+    "published": "2019-04-22",
+    "creators": [
+      "Rinnan, D. Scott",
+      "Lawler, Josh"
+    ]
+  },
+  {
     "id": 15688443,
     "title": "Guiding soil carbon sequestration with a novel organic material returning index globally",
     "description": "<p><span lang=\"EN-US\">Straw returning (SWR) and manure returning (OMR) are vital for enhancing soil organic carbon (SOC) sequestration in croplands, supporting agricultural sustainability and climate change mitigation. We developed the Organic Material Returning Index (OMRI) using data from 347 glob",
@@ -2800,6 +2785,21 @@
       "Hao, Pei",
       "Jiaxin, Zhou",
       "ruixing, hou"
+    ]
+  },
+  {
+    "id": 4016794,
+    "title": "Data Supporting Uplift Mechanism of the Highest Mountains at Eastern Himalayan Syntaxis Revealed by in Situ Dense Gravimetry",
+    "description": "<p>The data of the gravity observation network at the Eastern Himalayan Syntaxis, which include Longitude, Latitude, Elevation, Free-Air gravity anomaly (FGA), Bouguer gravity anomaly (BGA), and Moho depth.&nbsp;These&nbsp;data are shown in&nbsp;Figure 1, Figure 2, and Figure 3.</p>",
+    "url": null,
+    "doi": "10.5281/zenodo.4016794",
+    "keywords": [
+      "gravity anomalies"
+    ],
+    "published": "2020-09-06",
+    "creators": [
+      "Yawen She",
+      "Guangyu Fu"
     ]
   },
   {
@@ -2857,18 +2857,6 @@
     ]
   },
   {
-    "id": 13373329,
-    "title": "Detection and mitigation of DDoS attacks in SDN based  intrusion detection system",
-    "description": "",
-    "url": null,
-    "doi": "10.11591/eei.v13i4.7570",
-    "keywords": [],
-    "published": "2024-08-26",
-    "creators": [
-      "Meryem Chouikik"
-    ]
-  },
-  {
     "id": 7973328,
     "title": "Drivers of soil organic carbon stock during tropical forest succession",
     "description": "<p>Soil organic matter contributes to productivity in terrestrial ecosystems and contains more carbon than is found in the atmosphere. Yet, there is little understanding of soil organic carbon (SOC) sequestration processes during tropical forest succession, particularly after land abandonment from a",
@@ -2923,15 +2911,15 @@
     ]
   },
   {
-    "id": 17165850,
-    "title": "ICS Dataset",
-    "description": "<p>This dataset was generated to support research on anomaly detection in Cyber-Physical Systems (CPS), with a focus on distinguishing cyber attacks from system faults. It was created using an extended version of the ICSSIM emulator, which replicates an industrial bottle-filling process with two PLC",
+    "id": 13373329,
+    "title": "Detection and mitigation of DDoS attacks in SDN based  intrusion detection system",
+    "description": "",
     "url": null,
-    "doi": "10.5281/zenodo.17165850",
+    "doi": "10.11591/eei.v13i4.7570",
     "keywords": [],
-    "published": "2025-09-20",
+    "published": "2024-08-26",
     "creators": [
-      "Sudyana, Didik"
+      "Meryem Chouikik"
     ]
   },
   {
@@ -2949,6 +2937,77 @@
       "Louren\u00e7o Alves Pereira J\u00fanior",
       "Filipe Alves Neto Verri",
       "Osamu Saotome"
+    ]
+  },
+  {
+    "id": 8190339,
+    "title": "Impact of dam height and grain size distribution on breaching of non-cohesive dams due to overtopping",
+    "description": "<div>\n<p>The National Inventory of Dams reports 74,400 earthen dams in the United States in 2021; of these dams, approximately 27% are considered at high or significant hazard risk, that is dam failure will cause widespread damage and loss of lives. The most frequent cause of dam failure is breachin",
+    "url": null,
+    "doi": "10.5061/dryad.cvdncjt8k",
+    "keywords": [
+      "breach hydrograph",
+      "breach channel width",
+      "breach channel incision"
+    ],
+    "published": "2023-07-27",
+    "creators": [
+      "O'Donal, Heather",
+      "Viparelli, Enrica"
+    ]
+  },
+  {
+    "id": 8047205,
+    "title": "Malware Finances and Operations: a Data-Driven Study of the Value Chain for Infections and Compromised Access",
+    "description": "<p><strong>Description</strong><br>\n<br>\nThe datasets demonstrate the malware economy and the value chain published in our paper,&nbsp;<a href=\"https://doi.org/10.1145/3600160.3605047\"><em>Malware Finances and Operations: a Data-Driven Study of the Value Chain for Infections and Compromised Access</",
+    "url": null,
+    "doi": "10.5281/zenodo.8047205",
+    "keywords": [
+      "Malware",
+      "Anti-virus Software",
+      "Computer Hacking",
+      "Malicious Program Traits",
+      "Intrusion Detection",
+      "Software Security"
+    ],
+    "published": "2023-06-16",
+    "creators": [
+      "Nurmi, Juha",
+      "Niemel\u00e4, Mikko",
+      "Brumley, Billy"
+    ]
+  },
+  {
+    "id": 5006735,
+    "title": "Intergroup aggression in meerkats",
+    "description": "Violent conflicts between groups have been observed among many species of group living mammals and can have important fitness consequences, with individuals being injured or killed and with losing groups surrendering territory. Here, we explore between-group conflict among meerkats (Suricata suricat",
+    "url": null,
+    "doi": "10.5061/dryad.0gb5mkkws",
+    "keywords": [
+      "Animal groups",
+      "violence",
+      "Meerkats",
+      "Suricata suricatta",
+      "Animal sociality"
+    ],
+    "published": "2019-12-17",
+    "creators": [
+      "Dyble, Mark",
+      "Houslay, Thomas",
+      "Manser, Marta",
+      "Clutton-Brock, Tim"
+    ]
+  },
+  {
+    "id": 17165850,
+    "title": "ICS Dataset",
+    "description": "<p>This dataset was generated to support research on anomaly detection in Cyber-Physical Systems (CPS), with a focus on distinguishing cyber attacks from system faults. It was created using an extended version of the ICSSIM emulator, which replicates an industrial bottle-filling process with two PLC",
+    "url": null,
+    "doi": "10.5281/zenodo.17165850",
+    "keywords": [],
+    "published": "2025-09-20",
+    "creators": [
+      "Sudyana, Didik"
     ]
   },
   {
@@ -3000,45 +3059,23 @@
     ]
   },
   {
-    "id": 5006735,
-    "title": "Intergroup aggression in meerkats",
-    "description": "Violent conflicts between groups have been observed among many species of group living mammals and can have important fitness consequences, with individuals being injured or killed and with losing groups surrendering territory. Here, we explore between-group conflict among meerkats (Suricata suricat",
+    "id": 7515406,
+    "title": "CTU-50-FEEL",
+    "description": "<p>This dataset contains HTTPS-based features of the CTU-50 dataset.&nbsp;</p>\n\n<p>These features dataset was created for the purposes of a thesis on Distributed Federated Learning for Network Security. The code of the thesis, as well as the code used for generating these features, can be found in <",
     "url": null,
-    "doi": "10.5061/dryad.0gb5mkkws",
+    "doi": "10.5281/zenodo.7515406",
     "keywords": [
-      "Animal groups",
-      "violence",
-      "Meerkats",
-      "Suricata suricatta",
-      "Animal sociality"
+      "HTTPS",
+      "Network malware",
+      "Network security",
+      "Federated Learning",
+      "Features"
     ],
-    "published": "2019-12-17",
+    "published": "2023-01-10",
     "creators": [
-      "Dyble, Mark",
-      "Houslay, Thomas",
-      "Manser, Marta",
-      "Clutton-Brock, Tim"
-    ]
-  },
-  {
-    "id": 8047205,
-    "title": "Malware Finances and Operations: a Data-Driven Study of the Value Chain for Infections and Compromised Access",
-    "description": "<p><strong>Description</strong><br>\n<br>\nThe datasets demonstrate the malware economy and the value chain published in our paper,&nbsp;<a href=\"https://doi.org/10.1145/3600160.3605047\"><em>Malware Finances and Operations: a Data-Driven Study of the Value Chain for Infections and Compromised Access</",
-    "url": null,
-    "doi": "10.5281/zenodo.8047205",
-    "keywords": [
-      "Malware",
-      "Anti-virus Software",
-      "Computer Hacking",
-      "Malicious Program Traits",
-      "Intrusion Detection",
-      "Software Security"
-    ],
-    "published": "2023-06-16",
-    "creators": [
-      "Nurmi, Juha",
-      "Niemel\u00e4, Mikko",
-      "Brumley, Billy"
+      "Pavel Janata",
+      "Maria Rigaki",
+      "Sebastian Garcia"
     ]
   },
   {
@@ -3061,23 +3098,15 @@
     ]
   },
   {
-    "id": 7515406,
-    "title": "CTU-50-FEEL",
-    "description": "<p>This dataset contains HTTPS-based features of the CTU-50 dataset.&nbsp;</p>\n\n<p>These features dataset was created for the purposes of a thesis on Distributed Federated Learning for Network Security. The code of the thesis, as well as the code used for generating these features, can be found in <",
+    "id": 15297221,
+    "title": "Soil organic and inorganic carbon pools in the Loess Plateau: New estimation, change and trade-offs",
+    "description": "<p>Soil carbon pool accurate estimation is important for land use management and coping with future climate change. However, the size, distribution, and drivers of soil organic (SOC) and inorganic (SIC) carbon lack precise quantification regionally. We developed ensemble machine learning models to q",
     "url": null,
-    "doi": "10.5281/zenodo.7515406",
-    "keywords": [
-      "HTTPS",
-      "Network malware",
-      "Network security",
-      "Federated Learning",
-      "Features"
-    ],
-    "published": "2023-01-10",
+    "doi": "10.5281/zenodo.15297221",
+    "keywords": [],
+    "published": "2025-04-28",
     "creators": [
-      "Pavel Janata",
-      "Maria Rigaki",
-      "Sebastian Garcia"
+      "Jianzhao, Wu"
     ]
   },
   {
@@ -3101,32 +3130,17 @@
     ]
   },
   {
-    "id": 15297221,
-    "title": "Soil organic and inorganic carbon pools in the Loess Plateau: New estimation, change and trade-offs",
-    "description": "<p>Soil carbon pool accurate estimation is important for land use management and coping with future climate change. However, the size, distribution, and drivers of soil organic (SOC) and inorganic (SIC) carbon lack precise quantification regionally. We developed ensemble machine learning models to q",
+    "id": 8359194,
+    "title": "ForTrace ProFTPD data set client-less approach",
+    "description": "<p>This is a data set generated with the ForTrace (https://github.com/dasec/ForTrace) framework. It was modified to remove the client-side Agent that taints the data otherwise. The data set is uploaded for a DFRWS 24 submission.</p><p>&nbsp;</p><ul><li>examples.tar.gz: Compressed version of ForTrace",
     "url": null,
-    "doi": "10.5281/zenodo.15297221",
-    "keywords": [],
-    "published": "2025-04-28",
-    "creators": [
-      "Jianzhao, Wu"
-    ]
-  },
-  {
-    "id": 8190339,
-    "title": "Impact of dam height and grain size distribution on breaching of non-cohesive dams due to overtopping",
-    "description": "<div>\n<p>The National Inventory of Dams reports 74,400 earthen dams in the United States in 2021; of these dams, approximately 27% are considered at high or significant hazard risk, that is dam failure will cause widespread damage and loss of lives. The most frequent cause of dam failure is breachin",
-    "url": null,
-    "doi": "10.5061/dryad.cvdncjt8k",
+    "doi": "10.5281/zenodo.8359194",
     "keywords": [
-      "breach hydrograph",
-      "breach channel width",
-      "breach channel incision"
+      "Digital forensics"
     ],
-    "published": "2023-07-27",
+    "published": "2023-10-13",
     "creators": [
-      "O'Donal, Heather",
-      "Viparelli, Enrica"
+      "D. Wolf"
     ]
   },
   {
@@ -3149,35 +3163,24 @@
     ]
   },
   {
-    "id": 8359194,
-    "title": "ForTrace ProFTPD data set client-less approach",
-    "description": "<p>This is a data set generated with the ForTrace (https://github.com/dasec/ForTrace) framework. It was modified to remove the client-side Agent that taints the data otherwise. The data set is uploaded for a DFRWS 24 submission.</p><p>&nbsp;</p><ul><li>examples.tar.gz: Compressed version of ForTrace",
+    "id": 12126071,
+    "title": "Evaluation datasets and results of the paper \"A Framework for Measuring the Quality of Business Process Simulation Models\"",
+    "description": "<p>Datasets and files used in the evaluation of the publication entitled \"A Framework for Measuring the Quality of Business Process Simulation Models\", where:</p>\n<ul>\n<li><strong><em>BPS-models/</em></strong>: folder containing the BPS models used in the evaluation (the BPS models discovered by Ser",
     "url": null,
-    "doi": "10.5281/zenodo.8359194",
+    "doi": "10.5281/zenodo.12126071",
     "keywords": [
-      "Digital forensics"
+      "Business Process Simulation",
+      "Process Mining",
+      "Simulation Quality"
     ],
-    "published": "2023-10-13",
+    "published": "2024-06-19",
     "creators": [
-      "D. Wolf"
-    ]
-  },
-  {
-    "id": 4946243,
-    "title": "Data from: Response of marine communities to local temperature changes",
-    "description": "As global climate change and variability drive shifts in species' distributions, ecological communities are being reorganized. One approach to understand community change in response to climate change has been to characterize communities by a collective thermal preference, or Community Temperature I",
-    "url": null,
-    "doi": "10.5061/dryad.bg08269",
-    "keywords": [
-      "Marine ecology",
-      "Holocene"
-    ],
-    "published": "2018-10-19",
-    "creators": [
-      "Flanagan, Patrick H.",
-      "Jensen, Olaf P.",
-      "Morley, James W.",
-      "Pinsky, Malin L."
+      "Chapela-Campa, David",
+      "Benchekroun, Ismail",
+      "Baron, Opher",
+      "Dumas, Marlon",
+      "Krass, Dmitry",
+      "Senderovich, Arik"
     ]
   },
   {
@@ -3205,45 +3208,6 @@
     ]
   },
   {
-    "id": 14049440,
-    "title": "DDoS and host background traffic - Pcap traces",
-    "description": "<p>This dataset includes Pcap files with DDoS and background traffic related to a host machine. Data can be used to test host-based DDoS detection solutions. DDoS traffic has been generated using the following tool: https://github.com/ricardojoserf/ddos simulation/tree/master</p>\n<p>Each archive inc",
-    "url": null,
-    "doi": "10.5281/zenodo.14049440",
-    "keywords": [
-      "DDoS",
-      "Background traffic",
-      "Host",
-      "Pcap"
-    ],
-    "published": "2024-11-07",
-    "creators": [
-      "Federico, De Iaco",
-      "Marco, Savi"
-    ]
-  },
-  {
-    "id": 12126071,
-    "title": "Evaluation datasets and results of the paper \"A Framework for Measuring the Quality of Business Process Simulation Models\"",
-    "description": "<p>Datasets and files used in the evaluation of the publication entitled \"A Framework for Measuring the Quality of Business Process Simulation Models\", where:</p>\n<ul>\n<li><strong><em>BPS-models/</em></strong>: folder containing the BPS models used in the evaluation (the BPS models discovered by Ser",
-    "url": null,
-    "doi": "10.5281/zenodo.12126071",
-    "keywords": [
-      "Business Process Simulation",
-      "Process Mining",
-      "Simulation Quality"
-    ],
-    "published": "2024-06-19",
-    "creators": [
-      "Chapela-Campa, David",
-      "Benchekroun, Ismail",
-      "Baron, Opher",
-      "Dumas, Marlon",
-      "Krass, Dmitry",
-      "Senderovich, Arik"
-    ]
-  },
-  {
     "id": 7104081,
     "title": "Climate mitigation potential and soil microbial response of cyanobacteria-fertilized bioenergy crops in a cool semi-arid cropland",
     "description": "<p>Bioenergy carbon capture and storage (BECCS) systems can serve as decarbonization pathways for climate mitigation. Perennial grasses are a promising second-generation lignocellulosic bioenergy feedstock, but optimizing their sustainability, productivity, and climate mitigation potential requires ",
@@ -3263,31 +3227,51 @@
     ]
   },
   {
-    "id": 10780478,
-    "title": "Ransomware Dataset",
-    "description": "<p>BN = Benign dataset</p>\n<p>MarauderMap = Ransomware dataset (broken into parts, around 16 GB in total)</p>\n<p>Password for ransomware dataset: 'maraudermap'</p>\n<p>All are executable files, handle with caution.</p>",
+    "id": 14049440,
+    "title": "DDoS and host background traffic - Pcap traces",
+    "description": "<p>This dataset includes Pcap files with DDoS and background traffic related to a host machine. Data can be used to test host-based DDoS detection solutions. DDoS traffic has been generated using the following tool: https://github.com/ricardojoserf/ddos simulation/tree/master</p>\n<p>Each archive inc",
     "url": null,
-    "doi": "10.5281/zenodo.10780478",
-    "keywords": [],
-    "published": "2024-03-05",
+    "doi": "10.5281/zenodo.14049440",
+    "keywords": [
+      "DDoS",
+      "Background traffic",
+      "Host",
+      "Pcap"
+    ],
+    "published": "2024-11-07",
     "creators": [
-      "Erkurt, Sevval"
+      "Federico, De Iaco",
+      "Marco, Savi"
     ]
   },
   {
-    "id": 11108195,
-    "title": "Global Dataset of Cyber Incidents V.1.2",
-    "description": "<p>The dataset contains data on 2889&nbsp;cyber incidents between 01.01.2000 and 02.05.2024 using 60 variables, including the start date, names and categories of receivers along with names and categories of initiators. The database was compiled as part of the <strong><a href=\"https://eurepoc.eu\">Eur",
+    "id": 6979726,
+    "title": "Anomalies in Microservice Architecture (train-ticket) based on version configurations",
+    "description": "<p>The work contains ten datasets containing monitoring data (logs, Jaeger Traces and Prometheus KPI data). The datasets contain monitoring data from train-ticket, a benchmark system for microservices. The dataset includes a short description with explanations of identified anomalies.</p>\n\n<p>The st",
     "url": null,
-    "doi": "10.5281/zenodo.11108195",
-    "keywords": [
-      "cyber",
-      "cyber incidents",
-      "cyber attacks"
-    ],
-    "published": "2024-05-03",
+    "doi": "10.5281/zenodo.6979726",
+    "keywords": [],
+    "published": "2022-08-10",
     "creators": [
-      "European Repository of Cyber Incidents (EuRepoC)"
+      "Steidl, Monika"
+    ]
+  },
+  {
+    "id": 4946243,
+    "title": "Data from: Response of marine communities to local temperature changes",
+    "description": "As global climate change and variability drive shifts in species' distributions, ecological communities are being reorganized. One approach to understand community change in response to climate change has been to characterize communities by a collective thermal preference, or Community Temperature I",
+    "url": null,
+    "doi": "10.5061/dryad.bg08269",
+    "keywords": [
+      "Marine ecology",
+      "Holocene"
+    ],
+    "published": "2018-10-19",
+    "creators": [
+      "Flanagan, Patrick H.",
+      "Jensen, Olaf P.",
+      "Morley, James W.",
+      "Pinsky, Malin L."
     ]
   },
   {
@@ -3331,15 +3315,31 @@
     ]
   },
   {
-    "id": 6979726,
-    "title": "Anomalies in Microservice Architecture (train-ticket) based on version configurations",
-    "description": "<p>The work contains ten datasets containing monitoring data (logs, Jaeger Traces and Prometheus KPI data). The datasets contain monitoring data from train-ticket, a benchmark system for microservices. The dataset includes a short description with explanations of identified anomalies.</p>\n\n<p>The st",
+    "id": 11108195,
+    "title": "Global Dataset of Cyber Incidents V.1.2",
+    "description": "<p>The dataset contains data on 2889&nbsp;cyber incidents between 01.01.2000 and 02.05.2024 using 60 variables, including the start date, names and categories of receivers along with names and categories of initiators. The database was compiled as part of the <strong><a href=\"https://eurepoc.eu\">Eur",
     "url": null,
-    "doi": "10.5281/zenodo.6979726",
-    "keywords": [],
-    "published": "2022-08-10",
+    "doi": "10.5281/zenodo.11108195",
+    "keywords": [
+      "cyber",
+      "cyber incidents",
+      "cyber attacks"
+    ],
+    "published": "2024-05-03",
     "creators": [
-      "Steidl, Monika"
+      "European Repository of Cyber Incidents (EuRepoC)"
+    ]
+  },
+  {
+    "id": 10780478,
+    "title": "Ransomware Dataset",
+    "description": "<p>BN = Benign dataset</p>\n<p>MarauderMap = Ransomware dataset (broken into parts, around 16 GB in total)</p>\n<p>Password for ransomware dataset: 'maraudermap'</p>\n<p>All are executable files, handle with caution.</p>",
+    "url": null,
+    "doi": "10.5281/zenodo.10780478",
+    "keywords": [],
+    "published": "2024-03-05",
+    "creators": [
+      "Erkurt, Sevval"
     ]
   },
   {
@@ -3361,38 +3361,15 @@
     ]
   },
   {
-    "id": 5518270,
-    "title": "Authorship Attribution - Twitter - 2019",
-    "description": "<p>Dataset of tweets used for the research of authorship attribution of small messages. It was used in the work&nbsp;&nbsp;<a href=\"https://ieeexplore.ieee.org/document/8683747\"><em>A Needle in a Haystack? Harnessing Onomatopoeia and User-specific Stylometrics for Authorship Attribution of Micro-mes",
+    "id": 10966470,
+    "title": "anndata_microglia_human_fetuses",
+    "description": "<p>Pseudogenes were retained in both adata_merge_genenames.h5ad and adata_merge_genenames_leiden.h5ad.&nbsp;</p>\n<p>adata_merge_genenames.h5ad: Normalization and log transformation were performed, followed by retention of the top 3000 highly variable genes. Gene IDs were then mapped to gene names.&n",
     "url": null,
-    "doi": "10.5281/zenodo.5518270",
-    "keywords": [
-      "Multimedia Forensics",
-      "Authorship Attribution"
-    ],
-    "published": "2021-09-21",
+    "doi": "10.5281/zenodo.10966470",
+    "keywords": [],
+    "published": "2024-04-12",
     "creators": [
-      "Antonio Theophilo",
-      "Lu\u00eds A. M. Pereira",
-      "Anderson Rocha"
-    ]
-  },
-  {
-    "id": 3892999,
-    "title": "Dataset for IDS testing",
-    "description": "<p>Dataset constructed to trigger IDS rules based on the community data set of the Snort Intrusion Detection System</p>",
-    "url": null,
-    "doi": "10.5281/zenodo.3892999",
-    "keywords": [
-      "dataset",
-      "network data",
-      "IDS",
-      "trigger"
-    ],
-    "published": "2020-01-22",
-    "creators": [
-      "Lukaseder, Thomas",
-      "Wagner, Mathias"
+      "Dhawka, Luvna"
     ]
   },
   {
@@ -3407,66 +3384,6 @@
       "van Gerwen, Sarah",
       "Papotti, Aurora",
       "Massacci, Fabio"
-    ]
-  },
-  {
-    "id": 4977561,
-    "title": "Data from: No apparent benefits of allonursing for recipient offspring and mothers in the cooperatively breeding meerkat",
-    "description": "1. Cooperative behaviours by definition are those that provide some benefit to another individual. Allonursing, the nursing of non-descendent young, is often considered a cooperative behaviour and is assumed to provide benefits to recipient offspring in terms of growth and survival, and to their mot",
-    "url": null,
-    "doi": "10.5061/dryad.h6763",
-    "keywords": [
-      "Suricata suricatta",
-      "allonursing"
-    ],
-    "published": "2015-12-15",
-    "creators": [
-      "MacLeod, Kirsty J.",
-      "McGhee, Katie E.",
-      "Clutton-Brock, Tim H."
-    ]
-  },
-  {
-    "id": 10966470,
-    "title": "anndata_microglia_human_fetuses",
-    "description": "<p>Pseudogenes were retained in both adata_merge_genenames.h5ad and adata_merge_genenames_leiden.h5ad.&nbsp;</p>\n<p>adata_merge_genenames.h5ad: Normalization and log transformation were performed, followed by retention of the top 3000 highly variable genes. Gene IDs were then mapped to gene names.&n",
-    "url": null,
-    "doi": "10.5281/zenodo.10966470",
-    "keywords": [],
-    "published": "2024-04-12",
-    "creators": [
-      "Dhawka, Luvna"
-    ]
-  },
-  {
-    "id": 4934386,
-    "title": "Data from: Rethinking the scale and formulation of indices assessing organism vulnerability to warmer habitats",
-    "description": "Ecologists often use indices or proxies to communicate complex ecological entities. Indices commonly known as Thermal Safety Margin, Habitat Thermal Quality and Hours of Restriction describe species' vulnerability to climate change by comparing organisms' thermal limits or preferences to available h",
-    "url": null,
-    "doi": "10.5061/dryad.6bq1c1r",
-    "keywords": [
-      "Thermal heterogeneity",
-      "micro-climate",
-      "Holocene",
-      "Cordylus oelofseni"
-    ],
-    "published": "2020-01-25",
-    "creators": [
-      "Garcia, Raquel A.",
-      "Allen, Jessica L.",
-      "Clusella-Trullas, Susana"
-    ]
-  },
-  {
-    "id": 10317529,
-    "title": "O Dea Mitre",
-    "description": "Material: Textile, rock crystal. Accession No: LDL 001. Current Location: [The Hunt Museum](https://www.huntmuseum.com/), [Limerick](https://www.geonames.org/7778675/limerick-city.html).\n\nThe O Dea [Mitre](http://vocab.getty.edu/page/aat/300266078) is on display in the Museum on behalf of the [Roman",
-    "url": null,
-    "doi": "10.5281/zenodo.10317529",
-    "keywords": [],
-    "published": "2022-07-04",
-    "creators": [
-      "TheHuntMuseum"
     ]
   },
   {
@@ -3499,52 +3416,20 @@
     ]
   },
   {
-    "id": 15716735,
-    "title": "Multi-Regional Cloud Honeynet Dataset: A Distributed T-Pot Honeypot Deployment Across Azure Regions for Cyber Threat Analysis",
-    "description": "<p>This dataset includes a high-resolution honeynet dataset that can be used for independent analysis of the patterns of cyberattacks around the world. The information, which was gathered over 72 hours (June 9&ndash;11, 2025) on Microsoft Azure, includes 132,425 distinct attack events that were reco",
+    "id": 4977561,
+    "title": "Data from: No apparent benefits of allonursing for recipient offspring and mothers in the cooperatively breeding meerkat",
+    "description": "1. Cooperative behaviours by definition are those that provide some benefit to another individual. Allonursing, the nursing of non-descendent young, is often considered a cooperative behaviour and is assumed to provide benefits to recipient offspring in terms of growth and survival, and to their mot",
     "url": null,
-    "doi": "10.5281/zenodo.15716735",
+    "doi": "10.5061/dryad.h6763",
     "keywords": [
-      "Honeypots",
-      "Cyberattacks",
-      "Honeynet",
-      "Cybersecurity",
-      "threat-intelligence",
-      "t-pot"
+      "Suricata suricatta",
+      "allonursing"
     ],
-    "published": "2025-07-10",
+    "published": "2015-12-15",
     "creators": [
-      "Feito-Casares, Enrique",
-      "G\u00f3mez-Talal, Ismael",
-      "Rojo-\u00c1lvarez, Jos\u00e9 Luis"
-    ]
-  },
-  {
-    "id": 10325784,
-    "title": "A Critical Review of the Impact of Climate Change on Food Security in Nigeria: A Vulnerability Assessment",
-    "description": "<p>This review explores the profound ramifications of climate change on food security in Nigeria through a comprehensive vulnerability assessment. As a nation heavily reliant on agriculture, Nigeria faces escalating challenges exacerbated by shifting climatic patterns. This study employs a multi-fac",
-    "url": null,
-    "doi": "10.5281/zenodo.10325784",
-    "keywords": [],
-    "published": "2023-12-09",
-    "creators": [
-      "Hassaini, Iliyasu",
-      "Samson, Olayemi Sennuga",
-      "Joseph, Bamidele",
-      "Bankole, Osho-Lagunju",
-      "Rukayat, Orire Abdulahi"
-    ]
-  },
-  {
-    "id": 17104902,
-    "title": "SILRAD: Sysmon Dataset for Ransomware Analysis",
-    "description": "<p>The dataset contains Windows Sysmon logs generated from both benign applications (goodware) and malicious executables (ransomware). It is designed for use in machine learning&ndash;based ransomware detection, especially for incremental and online learning scenarios where concept drift plays a rol",
-    "url": null,
-    "doi": "10.5281/zenodo.17104902",
-    "keywords": [],
-    "published": "2025-09-12",
-    "creators": [
-      "Jamil"
+      "MacLeod, Kirsty J.",
+      "McGhee, Katie E.",
+      "Clutton-Brock, Tim H."
     ]
   },
   {
@@ -3565,72 +3450,22 @@
     ]
   },
   {
-    "id": 6337104,
-    "title": "DocTOR models and cross-validation dataset",
-    "description": "<p>Dataset necessary for DocTOR utility.</p>\n\n<p>DocTOR (Direct fOreCast Target On Reaction), is a utility written in python3.9 (using the conda workframe) that allows the user to upload a list of Uniprot IDs and Adverse reactions (from the available models) in order to study the relationship betwee",
+    "id": 4934386,
+    "title": "Data from: Rethinking the scale and formulation of indices assessing organism vulnerability to warmer habitats",
+    "description": "Ecologists often use indices or proxies to communicate complex ecological entities. Indices commonly known as Thermal Safety Margin, Habitat Thermal Quality and Hours of Restriction describe species' vulnerability to climate change by comparing organisms' thermal limits or preferences to available h",
     "url": null,
-    "doi": "10.5281/zenodo.6337104",
+    "doi": "10.5061/dryad.6bq1c1r",
     "keywords": [
-      "Machine Learning",
-      "Drug repourposing",
-      "Adverse reactions"
+      "Thermal heterogeneity",
+      "micro-climate",
+      "Holocene",
+      "Cordylus oelofseni"
     ],
-    "published": "2022-03-08",
+    "published": "2020-01-25",
     "creators": [
-      "Galletti Cristiano"
-    ]
-  },
-  {
-    "id": 4086815,
-    "title": "Data from: Differential effects of fertilisers on pollination and parasitoid interaction networks",
-    "description": "Grassland fertilisation drives non-random plant loss resulting in areas dominated by perennial grass species. How these changes cascade through linked trophic levels, however, is not well understood.  We studied how grassland fertilisation propagates change through the plant assemblage into the plan",
-    "url": null,
-    "doi": "10.5061/dryad.vmcvdncr3",
-    "keywords": [
-      "ecological networks",
-      "flower-pollinator network",
-      "parasitoid network",
-      "fertiliser",
-      "Grasslands",
-      "pollinator"
-    ],
-    "published": "2020-10-02",
-    "creators": [
-      "Villa-Galaviz, Edith",
-      "Smart, Simon M.",
-      "Clare, Elizabeth L.",
-      "Ward, Susan E.",
-      "Memmott, Jane"
-    ]
-  },
-  {
-    "id": 4503616,
-    "title": "Hydrothermal physiology and climate vulnerability in amphibians",
-    "description": "<p>All relevant data and code for the analysis from: Greenberg DA, Palen WJ. 2021 Hydrothermal physiology and climate vulnerability in amphibians. Proc. R. Soc. B 20202273. <a href=\"https://doi.org/10.1098/rspb.2020.2273\">https://doi.org/10.1098/rspb.2020.2273</a></p>\n\n<p>Data on jump performance (j",
-    "url": null,
-    "doi": "10.5061/dryad.98sf7m0h1",
-    "keywords": [],
-    "published": "2021-02-04",
-    "creators": [
-      "Greenberg, Dan",
-      "Palen, Wendy"
-    ]
-  },
-  {
-    "id": 15082260,
-    "title": "Modbus Normal and Malicious Network Traffic",
-    "description": "<p>Network traces of a&nbsp; Factory I/O instances: Two pcap files contain normal data (ie. the factory operating normaly), one contains man-in-the-middle attack data and one contains probe attack data.</p>",
-    "url": null,
-    "doi": "10.5281/zenodo.15082260",
-    "keywords": [
-      "cybersecurity",
-      "IIoT",
-      "network traffic"
-    ],
-    "published": "2025-03-25",
-    "creators": [
-      "Lazaridis, George",
-      "Mpatziakas, Asterios"
+      "Garcia, Raquel A.",
+      "Allen, Jessica L.",
+      "Clusella-Trullas, Susana"
     ]
   },
   {
@@ -3658,6 +3493,136 @@
     ]
   },
   {
+    "id": 15716735,
+    "title": "Multi-Regional Cloud Honeynet Dataset: A Distributed T-Pot Honeypot Deployment Across Azure Regions for Cyber Threat Analysis",
+    "description": "<p>This dataset includes a high-resolution honeynet dataset that can be used for independent analysis of the patterns of cyberattacks around the world. The information, which was gathered over 72 hours (June 9&ndash;11, 2025) on Microsoft Azure, includes 132,425 distinct attack events that were reco",
+    "url": null,
+    "doi": "10.5281/zenodo.15716735",
+    "keywords": [
+      "Honeypots",
+      "Cyberattacks",
+      "Honeynet",
+      "Cybersecurity",
+      "threat-intelligence",
+      "t-pot"
+    ],
+    "published": "2025-07-10",
+    "creators": [
+      "Feito-Casares, Enrique",
+      "G\u00f3mez-Talal, Ismael",
+      "Rojo-\u00c1lvarez, Jos\u00e9 Luis"
+    ]
+  },
+  {
+    "id": 6337104,
+    "title": "DocTOR models and cross-validation dataset",
+    "description": "<p>Dataset necessary for DocTOR utility.</p>\n\n<p>DocTOR (Direct fOreCast Target On Reaction), is a utility written in python3.9 (using the conda workframe) that allows the user to upload a list of Uniprot IDs and Adverse reactions (from the available models) in order to study the relationship betwee",
+    "url": null,
+    "doi": "10.5281/zenodo.6337104",
+    "keywords": [
+      "Machine Learning",
+      "Drug repourposing",
+      "Adverse reactions"
+    ],
+    "published": "2022-03-08",
+    "creators": [
+      "Galletti Cristiano"
+    ]
+  },
+  {
+    "id": 10325784,
+    "title": "A Critical Review of the Impact of Climate Change on Food Security in Nigeria: A Vulnerability Assessment",
+    "description": "<p>This review explores the profound ramifications of climate change on food security in Nigeria through a comprehensive vulnerability assessment. As a nation heavily reliant on agriculture, Nigeria faces escalating challenges exacerbated by shifting climatic patterns. This study employs a multi-fac",
+    "url": null,
+    "doi": "10.5281/zenodo.10325784",
+    "keywords": [],
+    "published": "2023-12-09",
+    "creators": [
+      "Hassaini, Iliyasu",
+      "Samson, Olayemi Sennuga",
+      "Joseph, Bamidele",
+      "Bankole, Osho-Lagunju",
+      "Rukayat, Orire Abdulahi"
+    ]
+  },
+  {
+    "id": 10317529,
+    "title": "O Dea Mitre",
+    "description": "Material: Textile, rock crystal. Accession No: LDL 001. Current Location: [The Hunt Museum](https://www.huntmuseum.com/), [Limerick](https://www.geonames.org/7778675/limerick-city.html).\n\nThe O Dea [Mitre](http://vocab.getty.edu/page/aat/300266078) is on display in the Museum on behalf of the [Roman",
+    "url": null,
+    "doi": "10.5281/zenodo.10317529",
+    "keywords": [],
+    "published": "2022-07-04",
+    "creators": [
+      "TheHuntMuseum"
+    ]
+  },
+  {
+    "id": 4503616,
+    "title": "Hydrothermal physiology and climate vulnerability in amphibians",
+    "description": "<p>All relevant data and code for the analysis from: Greenberg DA, Palen WJ. 2021 Hydrothermal physiology and climate vulnerability in amphibians. Proc. R. Soc. B 20202273. <a href=\"https://doi.org/10.1098/rspb.2020.2273\">https://doi.org/10.1098/rspb.2020.2273</a></p>\n\n<p>Data on jump performance (j",
+    "url": null,
+    "doi": "10.5061/dryad.98sf7m0h1",
+    "keywords": [],
+    "published": "2021-02-04",
+    "creators": [
+      "Greenberg, Dan",
+      "Palen, Wendy"
+    ]
+  },
+  {
+    "id": 17104902,
+    "title": "SILRAD: Sysmon Dataset for Ransomware Analysis",
+    "description": "<p>The dataset contains Windows Sysmon logs generated from both benign applications (goodware) and malicious executables (ransomware). It is designed for use in machine learning&ndash;based ransomware detection, especially for incremental and online learning scenarios where concept drift plays a rol",
+    "url": null,
+    "doi": "10.5281/zenodo.17104902",
+    "keywords": [],
+    "published": "2025-09-12",
+    "creators": [
+      "Jamil"
+    ]
+  },
+  {
+    "id": 15082260,
+    "title": "Modbus Normal and Malicious Network Traffic",
+    "description": "<p>Network traces of a&nbsp; Factory I/O instances: Two pcap files contain normal data (ie. the factory operating normaly), one contains man-in-the-middle attack data and one contains probe attack data.</p>",
+    "url": null,
+    "doi": "10.5281/zenodo.15082260",
+    "keywords": [
+      "cybersecurity",
+      "IIoT",
+      "network traffic"
+    ],
+    "published": "2025-03-25",
+    "creators": [
+      "Lazaridis, George",
+      "Mpatziakas, Asterios"
+    ]
+  },
+  {
+    "id": 4086815,
+    "title": "Data from: Differential effects of fertilisers on pollination and parasitoid interaction networks",
+    "description": "Grassland fertilisation drives non-random plant loss resulting in areas dominated by perennial grass species. How these changes cascade through linked trophic levels, however, is not well understood.  We studied how grassland fertilisation propagates change through the plant assemblage into the plan",
+    "url": null,
+    "doi": "10.5061/dryad.vmcvdncr3",
+    "keywords": [
+      "ecological networks",
+      "flower-pollinator network",
+      "parasitoid network",
+      "fertiliser",
+      "Grasslands",
+      "pollinator"
+    ],
+    "published": "2020-10-02",
+    "creators": [
+      "Villa-Galaviz, Edith",
+      "Smart, Simon M.",
+      "Clare, Elizabeth L.",
+      "Ward, Susan E.",
+      "Memmott, Jane"
+    ]
+  },
+  {
     "id": 14811122,
     "title": "NANCY SNS JU Project - Cyberattacks on O-RAN 5G Testbed Dataset",
     "description": "<p>This dataset was developed in the context of the NANCY project and it is the output of the experiments involving cyberattacks against services that are running in a 5G coverage expansion scenario. The coverage expansion scenario involves a main operator and a micro-operator which extends the main",
@@ -3678,44 +3643,20 @@
     ]
   },
   {
-    "id": 10783814,
-    "title": "NetShaper Dataset",
-    "description": "<p>This dataset contains the traces we collected for evaluation of the paper: NetShaper: A Differentially Private Network Side-Channel Mitigation System</p>",
+    "id": 5518270,
+    "title": "Authorship Attribution - Twitter - 2019",
+    "description": "<p>Dataset of tweets used for the research of authorship attribution of small messages. It was used in the work&nbsp;&nbsp;<a href=\"https://ieeexplore.ieee.org/document/8683747\"><em>A Needle in a Haystack? Harnessing Onomatopoeia and User-specific Stylometrics for Authorship Attribution of Micro-mes",
     "url": null,
-    "doi": "10.5281/zenodo.10783814",
-    "keywords": [],
-    "published": "2024-03-06",
-    "creators": [
-      "Sabzi, Amir",
-      "Vora, Rut",
-      "Mehta, Aastha"
-    ]
-  },
-  {
-    "id": 17206523,
-    "title": "Ruth Traffic Simulator - Datasets and Configurations for ACE / Evkit Benchmark",
-    "description": "<p>This repository contains the input datasets and supporting configuration files used in the evaluation of ACE (Asynchronous Communication and Execution) for scalable alternative route computation in traffic simulation, presented at SC25.</p>\n<p>Two scenarios are included:</p>\n<ul>\n<li>\n<p>Prague (",
-    "url": null,
-    "doi": "10.5281/zenodo.17206523",
+    "doi": "10.5281/zenodo.5518270",
     "keywords": [
-      "Traffic simulation",
-      "Alternative route computation",
-      "High-Performance Computing",
-      "ACE",
-      "Evkit",
-      "Prague",
-      "Central Bohemia Region",
-      "RUTH"
+      "Multimedia Forensics",
+      "Authorship Attribution"
     ],
-    "published": "2025-09-26",
+    "published": "2021-09-21",
     "creators": [
-      "Silva, Paulo",
-      "Smolkov\u00e1, Pavl\u00edna",
-      "Slaninov\u00e1, Kate\u0159ina",
-      "Martinovi\u010d, Jan",
-      "\u0160pe\u0165ko, Matej",
-      "Barbosa, Jo\u00e3o",
-      "Vitali, Emanuele"
+      "Antonio Theophilo",
+      "Lu\u00eds A. M. Pereira",
+      "Anderson Rocha"
     ]
   },
   {
@@ -3767,189 +3708,63 @@
     ]
   },
   {
-    "id": 7332553,
-    "title": "Input data to model multiple effects of large-scale deployment of grass in crop-rotations at European scale",
-    "description": "<p>This is the input dataset to a Python script (<a href=\"https://github.com/oskeng/MF-bio-grass\">https://github.com/oskeng/MF-bio-grass</a>) used to model the effects of widespread deployment of grass in rotations with annual crops to provide biomass while remediating soil organic carbon (SOC) loss",
+    "id": 10783814,
+    "title": "NetShaper Dataset",
+    "description": "<p>This dataset contains the traces we collected for evaluation of the paper: NetShaper: A Differentially Private Network Side-Channel Mitigation System</p>",
     "url": null,
-    "doi": "10.5061/dryad.18931zd1m",
-    "keywords": [
-      "climate mitigation",
-      "perennial crops",
-      "Agriculture",
-      "environmental impacts",
-      "environmental benefits",
-      "Land-use",
-      "spatial modelling",
-      "soil carbon",
-      "Europe",
-      "grass"
-    ],
-    "published": "2022-11-17",
-    "creators": [
-      "Englund, Oskar"
-    ]
-  },
-  {
-    "id": 10145347,
-    "title": "Improving Photometric Redshift Estimation for Cosmology with LSST using Bayesian Neural Networks",
-    "description": "<p>Photometric redshift predictions and uncertainties for HSC PDR2 galaxies based on the neural network and Bayesian Neural Network from Jones et al. (2023).&nbsp;</p>\n<p>See https://doi.org/10.5281/zenodo.5528827 for the full training dataset.&nbsp;</p>\n<p>Object IDs are from the HSC PDR2 data rele",
-    "url": null,
-    "doi": "10.5281/zenodo.10145347",
+    "doi": "10.5281/zenodo.10783814",
     "keywords": [],
-    "published": "2023-11-16",
+    "published": "2024-03-06",
     "creators": [
-      "Jones, Evan",
-      "Do, Tuan",
-      "Boscoe, Bernie",
-      "Wan, Yujie",
-      "Nguyen, Zooey"
+      "Sabzi, Amir",
+      "Vora, Rut",
+      "Mehta, Aastha"
     ]
   },
   {
-    "id": 7027425,
-    "title": "Forward and backward Raman scattering photon counts in a FTTH topology.",
-    "description": "<p>This set comprises a simulation tool in Mathematica for the generated Raman noise in a<br>\nGPON-based FTTH topology. This set takes into consideration various FTTH parameters,<br>\nsuch as the number of Optical Network Terminals (ONTs) and the splitting ratios, as well<br>\nas the drop and feeder f",
+    "id": 17206523,
+    "title": "Ruth Traffic Simulator - Datasets and Configurations for ACE / Evkit Benchmark",
+    "description": "<p>This repository contains the input datasets and supporting configuration files used in the evaluation of ACE (Asynchronous Communication and Execution) for scalable alternative route computation in traffic simulation, presented at SC25.</p>\n<p>Two scenarios are included:</p>\n<ul>\n<li>\n<p>Prague (",
     "url": null,
-    "doi": "10.5281/zenodo.7027425",
+    "doi": "10.5281/zenodo.17206523",
     "keywords": [
-      "Raman noise, QKD, FTTH"
+      "Traffic simulation",
+      "Alternative route computation",
+      "High-Performance Computing",
+      "ACE",
+      "Evkit",
+      "Prague",
+      "Central Bohemia Region",
+      "RUTH"
     ],
-    "published": "2022-08-27",
+    "published": "2025-09-26",
     "creators": [
-      "Argiris Ntanos",
-      "Giannis Giannoulis",
-      "Dimitris Zavitsanos"
+      "Silva, Paulo",
+      "Smolkov\u00e1, Pavl\u00edna",
+      "Slaninov\u00e1, Kate\u0159ina",
+      "Martinovi\u010d, Jan",
+      "\u0160pe\u0165ko, Matej",
+      "Barbosa, Jo\u00e3o",
+      "Vitali, Emanuele"
     ]
   },
   {
-    "id": 7511069,
-    "title": "Data from: Predicting primate-parasite associations with exponential random graph models",
-    "description": "<p>Ecological associations between hosts and parasites are influenced by host exposure and susceptibility to parasites, and by parasite traits, such as transmission mode. Advances in network analysis allow us to answer questions about the causes and consequences of traits in ecological networks in w",
+    "id": 8090619,
+    "title": "LoRaWAN Traffic Analysis Dataset",
+    "description": "<p>This dataset was created by a LoRaWAN sniffer and contains packets, which are thoroughly analyzed in the paper&nbsp;<a href=\"https://www.mdpi.com/1424-8220/23/17/7333\"><em>Exploring LoRaWAN Traffic: In-Depth Analysis of IoT Network Communications</em></a>. Data from the LoRaWAN sniffer was collec",
     "url": null,
-    "doi": "10.5061/dryad.h9w0vt4n7",
+    "doi": "10.5281/zenodo.8090619",
     "keywords": [
-      "bipartite network",
-      "comparative analysis",
-      "Network analysis",
-      "threat status"
+      "LoRaWAN",
+      "LoRa",
+      "IoT",
+      "sniffer",
+      "eavesdropping"
     ],
-    "published": "2023-01-06",
+    "published": "2023-06-28",
     "creators": [
-      "Herrera, James",
-      "Moody, James",
-      "Nunn, Charles"
-    ]
-  },
-  {
-    "id": 10416919,
-    "title": "Soil organic carbon loss decreases biodiversity but stimulates multitrophic interactions that promote belowground metabolism",
-    "description": "<p>Soil organic carbon (SOC) plays an essential role in mediating community structure and metabolic activities of belowground biota. Unraveling the evolution of belowground communities and their feedback mechanisms on SOC dynamics helps embed the ecology of soil microbiome into carbon cycling, which",
-    "url": null,
-    "doi": "10.5061/dryad.qz612jmp3",
-    "keywords": [
-      "agroecosystem",
-      "belowground metabolisms",
-      "Biodiversity",
-      "carbon loss",
-      "Mollisols",
-      "multitrophic network",
-      "soil organic carbon"
-    ],
-    "published": "2023-12-20",
-    "creators": [
-      "Chen, Zengming"
-    ]
-  },
-  {
-    "id": 5040417,
-    "title": "Unveiling Web Fingerprinting in the Wild Via Code Mining and Machine Learning",
-    "description": "<p>Dataset of Javascripts used for training and testing the fingerprinting algorithms described in&nbsp;</p>\n\n<p>Rizzo, Valentino, Stefano Traverso, and Marco Mellia. &quot;Unveiling Web Fingerprinting in the Wild Via Code Mining and Machine Learning.&quot;&nbsp;<em>Proceedings on Privacy Enhancing ",
-    "url": null,
-    "doi": "10.5281/zenodo.5040417",
-    "keywords": [
-      "javascript code",
-      "fingerprinting"
-    ],
-    "published": "2020-11-09",
-    "creators": [
-      "Rizzo, Valentino",
-      "Traverso, Stefano",
-      "Mellia, Marco"
-    ]
-  },
-  {
-    "id": 15118413,
-    "title": "Exposing Phishing Strategies: Leveraging Machine Learning to Examine URL Characteristics for Proactive Threat Identification",
-    "description": "<p>This appendix contains supplementary material supporting the research paper, including additional experimental results, extended discussions, and relevant data.</p>",
-    "url": null,
-    "doi": "10.5281/zenodo.15118413",
-    "keywords": [],
-    "published": "2025-04-01",
-    "creators": [
-      "Asuai, Chukwunalu JohnPaul"
-    ]
-  },
-  {
-    "id": 12699135,
-    "title": "Climate Change Regulations of Corporations in Tanzania: A Case for Dilute Interventionism and Veto Firewall Paradigm",
-    "description": "<p>Corporations operating in developing countries generally adopt an obstructionist approach to climate change and environmental regulation, particularly in states with weaker economic bargaining strength. Tanzania is one of the African states suffering the disproportionate impacts of climate change",
-    "url": null,
-    "doi": "10.33002/jelp03.01.02",
-    "keywords": [],
-    "published": "2023-04-28",
-    "creators": [
-      "Oluwaseun Kila, Kikelomo"
-    ]
-  },
-  {
-    "id": 12721264,
-    "title": "Climate Change and Corporate Regulation in Angola: Reforming the Regulatory Framework for Climate Change Mitigation",
-    "description": "<p>Angola, like many African countries, continuously suffers the deleterious impacts of climate change despite its minimal global carbon contributions. Despite this, it has not taken active steps to institute a climate change regulatory framework or established any strong regulatory regime to aid th",
-    "url": null,
-    "doi": "10.33002/jelp03.01.04",
-    "keywords": [],
-    "published": "2023-04-28",
-    "creators": [
-      "Oluwaseun Kila, Kikelomo"
-    ]
-  },
-  {
-    "id": 5006326,
-    "title": "Data from: Exploring data interaction and nucleotide alignment in a multiple gene analysis of Ips (Coleoptera: Scolytinae)",
-    "description": "The possibility of gene tree incongruence in a species-level phylogenetic analysis of the genus Ips (Coleoptera: Scolytidae) was investigated based on mitochondrial 16S rRNA and nuclear Elongation factor-1\u03b1 sequences, and existing Cytochrome Oxidase I and non-molecular data sets. Separate cladistic ",
-    "url": null,
-    "doi": "10.5061/dryad.678",
-    "keywords": [
-      "saturation",
-      "bark beetle systematics",
-      "elongation factor",
-      "DNA sequence alignment",
-      "phylogenetic information content",
-      "phylogenetic congruence",
-      "mitochondrial 16S rRNA"
-    ],
-    "published": "2009-06-30",
-    "creators": [
-      "Cognato, Anthony I.",
-      "Vogler, Alfried P."
-    ]
-  },
-  {
-    "id": 15706356,
-    "title": "FraudZen Dataset: Realistic Ground Truth CDRs of Bypass Fraud Techniques in Mobile Networks",
-    "description": "<p>This dataset contains synthetic call\u2011detail records (CDRs) generated with the open\u2011source FraudZen simulator. FraudZen models legitimate mobile subscribers and SIMBox fraudsters under multiple threat strategies (mobility, traffic, social, and their combinations, in both na&iuml;ve and advanced va",
-    "url": null,
-    "doi": "10.5281/zenodo.15706356",
-    "keywords": [
-      "Mobile cellular networks",
-      "SIMBox fraud modeling",
-      "Fraud detection"
-    ],
-    "published": "2025-06-20",
-    "creators": [
-      "Kouam, Anne Josiane",
-      "Carneiro Viana, Aline",
-      "Tchana, Alain"
+      "Povalac, Ales",
+      "Kral, Jan"
     ]
   },
   {
@@ -3981,49 +3796,62 @@
     ]
   },
   {
-    "id": 7684550,
-    "title": "CTU-AIP-Attacks-2022",
-    "description": "<p>The CTU-AIP-Attacks-2022 dataset aggregates network attacks of 27 bare-metal Internet of Things (IoT) honeypots. The IoT devices were located in the same physical location. The data were captured from January 1st, 2022, to December 31st, 2023.<br>\n<br>\nThe raw network attacks were captured using ",
+    "id": 7332553,
+    "title": "Input data to model multiple effects of large-scale deployment of grass in crop-rotations at European scale",
+    "description": "<p>This is the input dataset to a Python script (<a href=\"https://github.com/oskeng/MF-bio-grass\">https://github.com/oskeng/MF-bio-grass</a>) used to model the effects of widespread deployment of grass in rotations with annual crops to provide biomass while remediating soil organic carbon (SOC) loss",
     "url": null,
-    "doi": "10.5281/zenodo.7684550",
-    "keywords": [],
-    "published": "2023-02-28",
-    "creators": [
-      "Joaquin Bogado",
-      "Veronica Valeros",
-      "Sebastian Garc\u00eda"
-    ]
-  },
-  {
-    "id": 15723910,
-    "title": "HoneyMal-VirusTotal",
-    "description": "<p>This dataset was collected from a honeypot server designed to capture and record malicious network traffic. The honeypot actively interacts with potential attackers, logging the details of incoming network traffic and generating data from various attack attempts. The dataset comprises 100 rows an",
-    "url": null,
-    "doi": "10.5281/zenodo.15723910",
-    "keywords": [],
-    "published": "2025",
-    "creators": [
-      "Saadoon, Mohammed Saadoon",
-      "Behadili, Suhad Faisal"
-    ]
-  },
-  {
-    "id": 8090619,
-    "title": "LoRaWAN Traffic Analysis Dataset",
-    "description": "<p>This dataset was created by a LoRaWAN sniffer and contains packets, which are thoroughly analyzed in the paper&nbsp;<a href=\"https://www.mdpi.com/1424-8220/23/17/7333\"><em>Exploring LoRaWAN Traffic: In-Depth Analysis of IoT Network Communications</em></a>. Data from the LoRaWAN sniffer was collec",
-    "url": null,
-    "doi": "10.5281/zenodo.8090619",
+    "doi": "10.5061/dryad.18931zd1m",
     "keywords": [
-      "LoRaWAN",
-      "LoRa",
-      "IoT",
-      "sniffer",
-      "eavesdropping"
+      "climate mitigation",
+      "perennial crops",
+      "Agriculture",
+      "environmental impacts",
+      "environmental benefits",
+      "Land-use",
+      "spatial modelling",
+      "soil carbon",
+      "Europe",
+      "grass"
     ],
-    "published": "2023-06-28",
+    "published": "2022-11-17",
     "creators": [
-      "Povalac, Ales",
-      "Kral, Jan"
+      "Englund, Oskar"
+    ]
+  },
+  {
+    "id": 7027425,
+    "title": "Forward and backward Raman scattering photon counts in a FTTH topology.",
+    "description": "<p>This set comprises a simulation tool in Mathematica for the generated Raman noise in a<br>\nGPON-based FTTH topology. This set takes into consideration various FTTH parameters,<br>\nsuch as the number of Optical Network Terminals (ONTs) and the splitting ratios, as well<br>\nas the drop and feeder f",
+    "url": null,
+    "doi": "10.5281/zenodo.7027425",
+    "keywords": [
+      "Raman noise, QKD, FTTH"
+    ],
+    "published": "2022-08-27",
+    "creators": [
+      "Argiris Ntanos",
+      "Giannis Giannoulis",
+      "Dimitris Zavitsanos"
+    ]
+  },
+  {
+    "id": 10416919,
+    "title": "Soil organic carbon loss decreases biodiversity but stimulates multitrophic interactions that promote belowground metabolism",
+    "description": "<p>Soil organic carbon (SOC) plays an essential role in mediating community structure and metabolic activities of belowground biota. Unraveling the evolution of belowground communities and their feedback mechanisms on SOC dynamics helps embed the ecology of soil microbiome into carbon cycling, which",
+    "url": null,
+    "doi": "10.5061/dryad.qz612jmp3",
+    "keywords": [
+      "agroecosystem",
+      "belowground metabolisms",
+      "Biodiversity",
+      "carbon loss",
+      "Mollisols",
+      "multitrophic network",
+      "soil organic carbon"
+    ],
+    "published": "2023-12-20",
+    "creators": [
+      "Chen, Zengming"
     ]
   },
   {
@@ -4050,19 +3878,38 @@
     ]
   },
   {
-    "id": 4989300,
-    "title": "Data from: Modeling spatial patterns of soil respiration in maize fields from vegetation and soil property factors with the use of remote sensing and geographical information system",
-    "description": "To examine the method for estimating the spatial patterns of soil respiration (Rs) in agricultural ecosystems using remote sensing and geographical information system (GIS), Rs rates were measured at 53 sites during the peak growing season of maize in three counties in North China. Through Pearson's",
+    "id": 7511069,
+    "title": "Data from: Predicting primate-parasite associations with exponential random graph models",
+    "description": "<p>Ecological associations between hosts and parasites are influenced by host exposure and susceptibility to parasites, and by parasite traits, such as transmission mode. Advances in network analysis allow us to answer questions about the causes and consequences of traits in ecological networks in w",
     "url": null,
-    "doi": "10.5061/dryad.12528",
-    "keywords": [],
-    "published": "2015-07-14",
+    "doi": "10.5061/dryad.h9w0vt4n7",
+    "keywords": [
+      "bipartite network",
+      "comparative analysis",
+      "Network analysis",
+      "threat status"
+    ],
+    "published": "2023-01-06",
     "creators": [
-      "Huang, Ni",
-      "Wang, Li",
-      "Hao, Pengyu",
-      "Niu, Zheng",
-      "Guo, Yiqiang"
+      "Herrera, James",
+      "Moody, James",
+      "Nunn, Charles"
+    ]
+  },
+  {
+    "id": 10145347,
+    "title": "Improving Photometric Redshift Estimation for Cosmology with LSST using Bayesian Neural Networks",
+    "description": "<p>Photometric redshift predictions and uncertainties for HSC PDR2 galaxies based on the neural network and Bayesian Neural Network from Jones et al. (2023).&nbsp;</p>\n<p>See https://doi.org/10.5281/zenodo.5528827 for the full training dataset.&nbsp;</p>\n<p>Object IDs are from the HSC PDR2 data rele",
+    "url": null,
+    "doi": "10.5281/zenodo.10145347",
+    "keywords": [],
+    "published": "2023-11-16",
+    "creators": [
+      "Jones, Evan",
+      "Do, Tuan",
+      "Boscoe, Bernie",
+      "Wan, Yujie",
+      "Nguyen, Zooey"
     ]
   },
   {
@@ -4108,28 +3955,101 @@
     ]
   },
   {
-    "id": 16932945,
-    "title": "DP-TST DATADETS",
-    "description": "<p>This dataset systematically collected the depolarization characteristics of typical vehicle-road environment targets. The experimental subjects included five types of typical targets: car doors, wheel hubs, leaves, traffic signs, and asphalt pavement. We built a laboratory full-polarization imagi",
+    "id": 5006326,
+    "title": "Data from: Exploring data interaction and nucleotide alignment in a multiple gene analysis of Ips (Coleoptera: Scolytinae)",
+    "description": "The possibility of gene tree incongruence in a species-level phylogenetic analysis of the genus Ips (Coleoptera: Scolytidae) was investigated based on mitochondrial 16S rRNA and nuclear Elongation factor-1\u03b1 sequences, and existing Cytochrome Oxidase I and non-molecular data sets. Separate cladistic ",
     "url": null,
-    "doi": "10.5281/zenodo.16932945",
-    "keywords": [],
-    "published": "2025-08-23",
+    "doi": "10.5061/dryad.678",
+    "keywords": [
+      "saturation",
+      "bark beetle systematics",
+      "elongation factor",
+      "DNA sequence alignment",
+      "phylogenetic information content",
+      "phylogenetic congruence",
+      "mitochondrial 16S rRNA"
+    ],
+    "published": "2009-06-30",
     "creators": [
-      "Shan, Yuanhe"
+      "Cognato, Anthony I.",
+      "Vogler, Alfried P."
     ]
   },
   {
-    "id": 15102513,
-    "title": "Synthetic UDP Flood Cyberattack Dataset",
-    "description": "<p>This file contains a Synthetic Cyberattack Dataset created by IITIS within the DOSS Project concerning UDP Cyberattacks against a DOSS IoT Usecase and its Gateway. The Dataset contains data concerning both attack and benign packets that are generated by two distinct devices, one of which is <span",
+    "id": 5040417,
+    "title": "Unveiling Web Fingerprinting in the Wild Via Code Mining and Machine Learning",
+    "description": "<p>Dataset of Javascripts used for training and testing the fingerprinting algorithms described in&nbsp;</p>\n\n<p>Rizzo, Valentino, Stefano Traverso, and Marco Mellia. &quot;Unveiling Web Fingerprinting in the Wild Via Code Mining and Machine Learning.&quot;&nbsp;<em>Proceedings on Privacy Enhancing ",
     "url": null,
-    "doi": "10.5281/zenodo.15102513",
-    "keywords": [],
-    "published": "2025-03-25",
+    "doi": "10.5281/zenodo.5040417",
+    "keywords": [
+      "javascript code",
+      "fingerprinting"
+    ],
+    "published": "2020-11-09",
     "creators": [
-      "Gelenbe, Erol",
-      "Nasereddin, Mohammed"
+      "Rizzo, Valentino",
+      "Traverso, Stefano",
+      "Mellia, Marco"
+    ]
+  },
+  {
+    "id": 7684550,
+    "title": "CTU-AIP-Attacks-2022",
+    "description": "<p>The CTU-AIP-Attacks-2022 dataset aggregates network attacks of 27 bare-metal Internet of Things (IoT) honeypots. The IoT devices were located in the same physical location. The data were captured from January 1st, 2022, to December 31st, 2023.<br>\n<br>\nThe raw network attacks were captured using ",
+    "url": null,
+    "doi": "10.5281/zenodo.7684550",
+    "keywords": [],
+    "published": "2023-02-28",
+    "creators": [
+      "Joaquin Bogado",
+      "Veronica Valeros",
+      "Sebastian Garc\u00eda"
+    ]
+  },
+  {
+    "id": 3892999,
+    "title": "Dataset for IDS testing",
+    "description": "<p>Dataset constructed to trigger IDS rules based on the community data set of the Snort Intrusion Detection System</p>",
+    "url": null,
+    "doi": "10.5281/zenodo.3892999",
+    "keywords": [
+      "dataset",
+      "network data",
+      "IDS",
+      "trigger"
+    ],
+    "published": "2020-01-22",
+    "creators": [
+      "Lukaseder, Thomas",
+      "Wagner, Mathias"
+    ]
+  },
+  {
+    "id": 15118413,
+    "title": "Exposing Phishing Strategies: Leveraging Machine Learning to Examine URL Characteristics for Proactive Threat Identification",
+    "description": "<p>This appendix contains supplementary material supporting the research paper, including additional experimental results, extended discussions, and relevant data.</p>",
+    "url": null,
+    "doi": "10.5281/zenodo.15118413",
+    "keywords": [],
+    "published": "2025-04-01",
+    "creators": [
+      "Asuai, Chukwunalu JohnPaul"
+    ]
+  },
+  {
+    "id": 4989300,
+    "title": "Data from: Modeling spatial patterns of soil respiration in maize fields from vegetation and soil property factors with the use of remote sensing and geographical information system",
+    "description": "To examine the method for estimating the spatial patterns of soil respiration (Rs) in agricultural ecosystems using remote sensing and geographical information system (GIS), Rs rates were measured at 53 sites during the peak growing season of maize in three counties in North China. Through Pearson's",
+    "url": null,
+    "doi": "10.5061/dryad.12528",
+    "keywords": [],
+    "published": "2015-07-14",
+    "creators": [
+      "Huang, Ni",
+      "Wang, Li",
+      "Hao, Pengyu",
+      "Niu, Zheng",
+      "Guo, Yiqiang"
     ]
   },
   {
@@ -4152,6 +4072,31 @@
     ]
   },
   {
+    "id": 15723910,
+    "title": "HoneyMal-VirusTotal",
+    "description": "<p>This dataset was collected from a honeypot server designed to capture and record malicious network traffic. The honeypot actively interacts with potential attackers, logging the details of incoming network traffic and generating data from various attack attempts. The dataset comprises 100 rows an",
+    "url": null,
+    "doi": "10.5281/zenodo.15723910",
+    "keywords": [],
+    "published": "2025",
+    "creators": [
+      "Saadoon, Mohammed Saadoon",
+      "Behadili, Suhad Faisal"
+    ]
+  },
+  {
+    "id": 16932945,
+    "title": "DP-TST DATADETS",
+    "description": "<p>This dataset systematically collected the depolarization characteristics of typical vehicle-road environment targets. The experimental subjects included five types of typical targets: car doors, wheel hubs, leaves, traffic signs, and asphalt pavement. We built a laboratory full-polarization imagi",
+    "url": null,
+    "doi": "10.5281/zenodo.16932945",
+    "keywords": [],
+    "published": "2025-08-23",
+    "creators": [
+      "Shan, Yuanhe"
+    ]
+  },
+  {
     "id": 15296798,
     "title": "DMP: IoMT attack prediction with ML models",
     "description": "<p>The project generated a new dataset from a Healthcare Monitoring System (HMS) testbed without using external sources. The data included network traffic and biometric measurements stored in CSV format, comprising 16,317 samples (9,790 normal and 6,527 attack samples) across 44 features. It was int",
@@ -4161,6 +4106,61 @@
     "published": "2025-04-28",
     "creators": [
       "Taufail, Muhammad Danish"
+    ]
+  },
+  {
+    "id": 12699135,
+    "title": "Climate Change Regulations of Corporations in Tanzania: A Case for Dilute Interventionism and Veto Firewall Paradigm",
+    "description": "<p>Corporations operating in developing countries generally adopt an obstructionist approach to climate change and environmental regulation, particularly in states with weaker economic bargaining strength. Tanzania is one of the African states suffering the disproportionate impacts of climate change",
+    "url": null,
+    "doi": "10.33002/jelp03.01.02",
+    "keywords": [],
+    "published": "2023-04-28",
+    "creators": [
+      "Oluwaseun Kila, Kikelomo"
+    ]
+  },
+  {
+    "id": 12721264,
+    "title": "Climate Change and Corporate Regulation in Angola: Reforming the Regulatory Framework for Climate Change Mitigation",
+    "description": "<p>Angola, like many African countries, continuously suffers the deleterious impacts of climate change despite its minimal global carbon contributions. Despite this, it has not taken active steps to institute a climate change regulatory framework or established any strong regulatory regime to aid th",
+    "url": null,
+    "doi": "10.33002/jelp03.01.04",
+    "keywords": [],
+    "published": "2023-04-28",
+    "creators": [
+      "Oluwaseun Kila, Kikelomo"
+    ]
+  },
+  {
+    "id": 15102513,
+    "title": "Synthetic UDP Flood Cyberattack Dataset",
+    "description": "<p>This file contains a Synthetic Cyberattack Dataset created by IITIS within the DOSS Project concerning UDP Cyberattacks against a DOSS IoT Usecase and its Gateway. The Dataset contains data concerning both attack and benign packets that are generated by two distinct devices, one of which is <span",
+    "url": null,
+    "doi": "10.5281/zenodo.15102513",
+    "keywords": [],
+    "published": "2025-03-25",
+    "creators": [
+      "Gelenbe, Erol",
+      "Nasereddin, Mohammed"
+    ]
+  },
+  {
+    "id": 15706356,
+    "title": "FraudZen Dataset: Realistic Ground Truth CDRs of Bypass Fraud Techniques in Mobile Networks",
+    "description": "<p>This dataset contains synthetic call\u2011detail records (CDRs) generated with the open\u2011source FraudZen simulator. FraudZen models legitimate mobile subscribers and SIMBox fraudsters under multiple threat strategies (mobility, traffic, social, and their combinations, in both na&iuml;ve and advanced va",
+    "url": null,
+    "doi": "10.5281/zenodo.15706356",
+    "keywords": [
+      "Mobile cellular networks",
+      "SIMBox fraud modeling",
+      "Fraud detection"
+    ],
+    "published": "2025-06-20",
+    "creators": [
+      "Kouam, Anne Josiane",
+      "Carneiro Viana, Aline",
+      "Tchana, Alain"
     ]
   },
   {
@@ -4197,6 +4197,22 @@
     ]
   },
   {
+    "id": 5064037,
+    "title": "Location and plant spacing affect biomass yield and nutritional value of pigeon pea forage",
+    "description": "<p>An experiment was conducted to evaluate the effects of row spacing (RS) and interplant spacing (IPS) on the yield of total biomass, leaf, and edible twigs, and nutritive value of pigeon pea,(<i>Cajanus cajan </i>L. Millsp.<i>)</i> at three locations in the Rift Valley area of Ethiopia, using a ra",
+    "url": null,
+    "doi": "10.5061/dryad.kkwh70s55",
+    "keywords": [],
+    "published": "2021-07-02",
+    "creators": [
+      "Tefera, Mekonen",
+      "Adugna, Tolera",
+      "Ajebu, Nurfeta",
+      "Barry, Bradford",
+      "Aklilu, Mekasha"
+    ]
+  },
+  {
     "id": 14006538,
     "title": "SERENA EJPSOIL PT SOCLOSS SOC 0-20 cm",
     "description": "<p>The internal EJP SOIL project SERENA contributed to evaluating soil multifunctionality, aiming to provide assessment tools for land planning and soil policies at different scales. By co-working with relevant stakeholders, the project provided co-developed indicators and associated cookbooks to as",
@@ -4208,6 +4224,18 @@
       "Castanheira, N\u00e1dia Lu\u00edsa",
       "Buttafuoco, Gabriele",
       "Gon\u00e7alves, Maria Concei\u00e7\u00e3o"
+    ]
+  },
+  {
+    "id": 7030821,
+    "title": "Log Instructions from 100+ Software Systems",
+    "description": "<p>This is a collection of log instructions from more than 100+ software&nbsp;systems, available from GitHub. To collect this&nbsp;data, we crawled GitHub and searched for different systems from the following topics: Java, Python, Angular, Ruby, and PHP, selecting 7039 systems. Additionally, we coll",
+    "url": null,
+    "doi": "10.1145/3524610.3527906; 10.1109/SCC55611.2022.00053",
+    "keywords": [],
+    "published": "2022-08-29",
+    "creators": [
+      "Jasmin Bogatinovski"
     ]
   },
   {
@@ -4258,42 +4286,35 @@
     ]
   },
   {
-    "id": 4969766,
-    "title": "Data from: Bees and flowers: how to feed an invasive beetle species",
-    "description": "Invasive species may exploit a wide range of food sources, thereby fostering their success and hampering mitigation, but the actual degree of opportunism is often unknown. The small hive beetle (SHB), Aethina tumida, is a parasite of honeybee colonies endemic to sub-Saharan Africa. SHBs have now spr",
+    "id": 10594272,
+    "title": "Window to the Stars 2.13 on Raspberry Pi OS for Raspberry Pi 4B (arm64)",
+    "description": "<p>Window to the Stars 2.13 on Raspberry Pi (amd64)</p><p><a href=\"http://personal.ph.surrey.ac.uk/~ri0005/window.html\">http://personal.ph.surrey.ac.uk/~ri0005/window.html</a></p><p>Username/password: wtts/wtts</p><p>Please use the latest upload. Others are left here for the interested.</p><p>Note t",
     "url": null,
-    "doi": "10.5061/dryad.cg5p7bk",
+    "doi": "10.5281/zenodo.10594272",
     "keywords": [
-      "Host Shift",
-      "solitary bees",
-      "Aethina tumida",
-      "Megachile rotundata",
-      "feeding preferences"
+      "Stars",
+      "Stellar evolution",
+      "Astrophysics Software"
     ],
-    "published": "2019-05-16",
+    "published": "2024-01-30",
     "creators": [
-      "Gonthier, J\u00e9r\u00e9my",
-      "Papach, Anna",
-      "Straub, Lars",
-      "Campbell, Joshua W.",
-      "Williams, Geoffrey R.",
-      "Neumann, Peter"
+      "Izzard, Robert"
     ]
   },
   {
-    "id": 5064037,
-    "title": "Location and plant spacing affect biomass yield and nutritional value of pigeon pea forage",
-    "description": "<p>An experiment was conducted to evaluate the effects of row spacing (RS) and interplant spacing (IPS) on the yield of total biomass, leaf, and edible twigs, and nutritive value of pigeon pea,(<i>Cajanus cajan </i>L. Millsp.<i>)</i> at three locations in the Rift Valley area of Ethiopia, using a ra",
+    "id": 3874944,
+    "title": "Dataset Collected by JSObserver",
+    "description": "<p>This is a sampled dataset collected by JSObserver on Alexa top 100K websites. We analyze&nbsp;the log files to identify JavaScript global identifier conflicts, i.e., variable value conflicts, variable type conflicts and function definition conflicts.</p>\n\n<p>We release&nbsp;the log files on websi",
     "url": null,
-    "doi": "10.5061/dryad.kkwh70s55",
-    "keywords": [],
-    "published": "2021-07-02",
+    "doi": "10.5281/zenodo.3874944",
+    "keywords": [
+      "JSObserver",
+      "JavaScript identifier conflict"
+    ],
+    "published": "2020-06-03",
     "creators": [
-      "Tefera, Mekonen",
-      "Adugna, Tolera",
-      "Ajebu, Nurfeta",
-      "Barry, Bradford",
-      "Aklilu, Mekasha"
+      "Mingxue Zhang",
+      "Wei Meng"
     ]
   },
   {
@@ -4368,6 +4389,29 @@
     ]
   },
   {
+    "id": 4969766,
+    "title": "Data from: Bees and flowers: how to feed an invasive beetle species",
+    "description": "Invasive species may exploit a wide range of food sources, thereby fostering their success and hampering mitigation, but the actual degree of opportunism is often unknown. The small hive beetle (SHB), Aethina tumida, is a parasite of honeybee colonies endemic to sub-Saharan Africa. SHBs have now spr",
+    "url": null,
+    "doi": "10.5061/dryad.cg5p7bk",
+    "keywords": [
+      "Host Shift",
+      "solitary bees",
+      "Aethina tumida",
+      "Megachile rotundata",
+      "feeding preferences"
+    ],
+    "published": "2019-05-16",
+    "creators": [
+      "Gonthier, J\u00e9r\u00e9my",
+      "Papach, Anna",
+      "Straub, Lars",
+      "Campbell, Joshua W.",
+      "Williams, Geoffrey R.",
+      "Neumann, Peter"
+    ]
+  },
+  {
     "id": 8364668,
     "title": "Phishing and Benign Domain Dataset (DNS, IP, WHOIS/RDAP, TLS, GeoIP)",
     "description": "<p>The dataset contains DNS records, IP-related features, WHOIS/RDAP information, information from TLS certificate fields, and GeoIP information for 432,572 verified benign domains from Cisco Umbrella and 36,993 verified phishing domains from PhishTank and OpenPhish services. The dataset is useful f",
@@ -4386,36 +4430,6 @@
     ]
   },
   {
-    "id": 7030821,
-    "title": "Log Instructions from 100+ Software Systems",
-    "description": "<p>This is a collection of log instructions from more than 100+ software&nbsp;systems, available from GitHub. To collect this&nbsp;data, we crawled GitHub and searched for different systems from the following topics: Java, Python, Angular, Ruby, and PHP, selecting 7039 systems. Additionally, we coll",
-    "url": null,
-    "doi": "10.1145/3524610.3527906; 10.1109/SCC55611.2022.00053",
-    "keywords": [],
-    "published": "2022-08-29",
-    "creators": [
-      "Jasmin Bogatinovski"
-    ]
-  },
-  {
-    "id": 8328689,
-    "title": "Dataset for \"A new method for identifying weather-induced power system stress using shadow prices\"",
-    "description": "<p>These are data accompanying &quot;A new method for identifying weather-induced power system stress using shadow prices&quot;. They consist of</p>\n\n<ul>\n\t<li>solved network files (generated with <a href=\"https://github.com/PyPSA/pypsa-eur/\">PyPSA-Eur</a>, here v0.6.1), used for the analysis,</li>\n",
-    "url": null,
-    "doi": "10.5281/zenodo.8328689",
-    "keywords": [
-      "pypsa-eur",
-      "weather-data",
-      "extreme-events"
-    ],
-    "published": "2023-07-26",
-    "creators": [
-      "Grochowicz, Aleksander",
-      "van Greevenbroek, Koen",
-      "Bloomfield, Hannah"
-    ]
-  },
-  {
     "id": 6430974,
     "title": "Network Analysis to Identify Critical Links for Relief Activities During Extreme Weather Events",
     "description": "<p>As one of the principal lifeline systems, transportation networks are crucial for evacuation and delivering essential resources and services during the response and recovery phases of extreme weather events and must remain intact to enhance regional resiliency. The conventional evaluation measure",
@@ -4429,22 +4443,6 @@
       "Kate Kyung Hyun",
       "Stephen Mattingly",
       "Mehrdad Arabi"
-    ]
-  },
-  {
-    "id": 3874944,
-    "title": "Dataset Collected by JSObserver",
-    "description": "<p>This is a sampled dataset collected by JSObserver on Alexa top 100K websites. We analyze&nbsp;the log files to identify JavaScript global identifier conflicts, i.e., variable value conflicts, variable type conflicts and function definition conflicts.</p>\n\n<p>We release&nbsp;the log files on websi",
-    "url": null,
-    "doi": "10.5281/zenodo.3874944",
-    "keywords": [
-      "JSObserver",
-      "JavaScript identifier conflict"
-    ],
-    "published": "2020-06-03",
-    "creators": [
-      "Mingxue Zhang",
-      "Wei Meng"
     ]
   },
   {
@@ -4474,31 +4472,21 @@
     ]
   },
   {
-    "id": 13945223,
-    "title": "Supplementary Material for D6.2 of the DISTENDER project",
-    "description": "<p>This document contains the collected and extracted existing adaptation and mitigation strategies of the five core case studies (CCS) in the DISTENDER project, and is the supplementary material for the deliverable D6.2.</p>\n<p>The strategies included in this dataset are a combination of national, ",
+    "id": 8328689,
+    "title": "Dataset for \"A new method for identifying weather-induced power system stress using shadow prices\"",
+    "description": "<p>These are data accompanying &quot;A new method for identifying weather-induced power system stress using shadow prices&quot;. They consist of</p>\n\n<ul>\n\t<li>solved network files (generated with <a href=\"https://github.com/PyPSA/pypsa-eur/\">PyPSA-Eur</a>, here v0.6.1), used for the analysis,</li>\n",
     "url": null,
-    "doi": "10.5281/zenodo.13945223",
-    "keywords": [],
-    "published": "2024-10-17",
-    "creators": [
-      "Rohrer, Anna Viktoria"
-    ]
-  },
-  {
-    "id": 10594272,
-    "title": "Window to the Stars 2.13 on Raspberry Pi OS for Raspberry Pi 4B (arm64)",
-    "description": "<p>Window to the Stars 2.13 on Raspberry Pi (amd64)</p><p><a href=\"http://personal.ph.surrey.ac.uk/~ri0005/window.html\">http://personal.ph.surrey.ac.uk/~ri0005/window.html</a></p><p>Username/password: wtts/wtts</p><p>Please use the latest upload. Others are left here for the interested.</p><p>Note t",
-    "url": null,
-    "doi": "10.5281/zenodo.10594272",
+    "doi": "10.5281/zenodo.8328689",
     "keywords": [
-      "Stars",
-      "Stellar evolution",
-      "Astrophysics Software"
+      "pypsa-eur",
+      "weather-data",
+      "extreme-events"
     ],
-    "published": "2024-01-30",
+    "published": "2023-07-26",
     "creators": [
-      "Izzard, Robert"
+      "Grochowicz, Aleksander",
+      "van Greevenbroek, Koen",
+      "Bloomfield, Hannah"
     ]
   },
   {
@@ -4515,6 +4503,18 @@
       "Ryer, Kevin",
       "Kline, Richard",
       "Young, John"
+    ]
+  },
+  {
+    "id": 13945223,
+    "title": "Supplementary Material for D6.2 of the DISTENDER project",
+    "description": "<p>This document contains the collected and extracted existing adaptation and mitigation strategies of the five core case studies (CCS) in the DISTENDER project, and is the supplementary material for the deliverable D6.2.</p>\n<p>The strategies included in this dataset are a combination of national, ",
+    "url": null,
+    "doi": "10.5281/zenodo.13945223",
+    "keywords": [],
+    "published": "2024-10-17",
+    "creators": [
+      "Rohrer, Anna Viktoria"
     ]
   },
   {
@@ -4544,6 +4544,25 @@
       "Pargol Golmohammadi",
       "Yassine Mekdad",
       "Selcuk Uluagac"
+    ]
+  },
+  {
+    "id": 5336400,
+    "title": "Extent of severe flooding events in the Panaro river, Italy (OAL-IT)",
+    "description": "<p>The ambition of H2020 OPERANDUM project is to develop and document Nature Based Solutions (NBS) to mitigate risks associated with hydro-meteorological (HM) hazards. NBS mitigate risks by reducing the vulnerability of a particular system. The aim of this work is to demonstrate the use of multisour",
+    "url": null,
+    "doi": "10.5281/zenodo.5336400",
+    "keywords": [
+      "flood maps",
+      "Sentinel 1",
+      "TerrasarX"
+    ],
+    "published": "2021-08-30",
+    "creators": [
+      "Silvia Maria Alfieri",
+      "Fatemeh Foroughnia",
+      "Roderik Lindenbergh",
+      "Massimo Menenti"
     ]
   },
   {
@@ -4588,39 +4607,6 @@
     ]
   },
   {
-    "id": 7741427,
-    "title": "UK Grid Frequency data in Open-ENF .fredb format",
-    "description": "<p>This file contains the mains grid frequency for each second betwen 1st Jan 2014 00:00 UTC&nbsp;and 1st Jan 2022 00:00 UTC. This data was originally published by the UK National Grid, and subsequently cleaned and reformatted in OpenENF .freqdb format</p>",
-    "url": null,
-    "doi": "10.5281/zenodo.7741427",
-    "keywords": [
-      "OSInt, ENF"
-    ],
-    "published": "2023-03-16",
-    "creators": [
-      "Chris Hodges"
-    ]
-  },
-  {
-    "id": 5336400,
-    "title": "Extent of severe flooding events in the Panaro river, Italy (OAL-IT)",
-    "description": "<p>The ambition of H2020 OPERANDUM project is to develop and document Nature Based Solutions (NBS) to mitigate risks associated with hydro-meteorological (HM) hazards. NBS mitigate risks by reducing the vulnerability of a particular system. The aim of this work is to demonstrate the use of multisour",
-    "url": null,
-    "doi": "10.5281/zenodo.5336400",
-    "keywords": [
-      "flood maps",
-      "Sentinel 1",
-      "TerrasarX"
-    ],
-    "published": "2021-08-30",
-    "creators": [
-      "Silvia Maria Alfieri",
-      "Fatemeh Foroughnia",
-      "Roderik Lindenbergh",
-      "Massimo Menenti"
-    ]
-  },
-  {
     "id": 11383824,
     "title": "Exposure to humans and task difficulty levels affect wild raccoons (Procyon lotor) learning",
     "description": "<p>Cognition helps wildlife exploit novel resources and environments. Raccoons (<em>Procyon lotor</em>) have successfully adapted to human presence in part due to their cognitive abilities. However, close interactions between humans and wildlife can create conflicts. A better understanding of the ra",
@@ -4636,186 +4622,6 @@
     "creators": [
       "Lazure, Louis",
       "Weladji, Robert"
-    ]
-  },
-  {
-    "id": 5336381,
-    "title": "Extent of severe flooding events in the Elbe river, Germany (OAL-DE)",
-    "description": "<p>The ambition of H2020 OPERANDUM project is to develop and document Nature Based Solutions (NBS) to mitigate risks associated with hydro-meteorological (HM) hazards. NBS mitigate risks by reducing the vulnerability of a particular system. The aim of this work is to demonstrate the use of multisour",
-    "url": null,
-    "doi": "10.5281/zenodo.5336381",
-    "keywords": [
-      "flood maps",
-      "NDWI",
-      "Landsat",
-      "TerrasarX"
-    ],
-    "published": "2021-08-30",
-    "creators": [
-      "Silvia Maria Alfieri"
-    ]
-  },
-  {
-    "id": 4826421,
-    "title": "Data from: Genotype-environment mismatch of kelp forests under climate change",
-    "description": "<p class=\"MsoNoSpacing\"><span><span><span><span><span><span><span><span><span><span><span>Climate change is increasingly impacting ecosystems globally. Understanding adaptive genetic diversity and whether it will keep pace with projected climatic change is necessary to assess species' vulnerability ",
-    "url": null,
-    "doi": "10.5061/dryad.fn2z34ttg",
-    "keywords": [],
-    "published": "2021-05-27",
-    "creators": [
-      "Vranken, Sofie",
-      "Wernberg, Thomas",
-      "Scheben, Armin",
-      "Severn-Ellis, Anita",
-      "Batley, Jacqueline",
-      "Bayer, Philipp Emanuel",
-      "Edwards, David",
-      "Wheeler, David",
-      "Coleman, Melinda Ann"
-    ]
-  },
-  {
-    "id": 5172160,
-    "title": "Extent of severe flooding events in the Spercheios river, Greece (OAL-GR)",
-    "description": "<p>The ambition of H2020 OPERANDUM project is to develop and document Nature Based Solutions (NBS) to mitigate risks associated with hydro-meteorological (HM) hazards. NBS mitigate risks by reducing the vulnerability of a particular system. The aim of this work is to demonstrate the use of multisour",
-    "url": null,
-    "doi": "10.5281/zenodo.5172160",
-    "keywords": [
-      "Flood",
-      "Sentinel",
-      "Normalized Difference Water Index",
-      "Remote Sensing"
-    ],
-    "published": "2021-08-10",
-    "creators": [
-      "Silvia Maria Alfieri",
-      "Fatemeh Foroughnia",
-      "Roderik Lindenbergh",
-      "Massimo Menenti"
-    ]
-  },
-  {
-    "id": 14801544,
-    "title": "Application of AI in Network Traffic Analysis",
-    "description": "<p>In this thesis, I investigate the transformative role of artificial intelligence (AI) in network traffic analysis, highlighting how AI technologies enhance the monitoring and management of network data. As networks grow increasingly complex, traditional methods fall short in providing the efficie",
-    "url": null,
-    "doi": "10.5281/zenodo.14801544",
-    "keywords": [],
-    "published": "2025-02-04",
-    "creators": [
-      "Janak Dungrani",
-      "Vraj Shiroya"
-    ]
-  },
-  {
-    "id": 5578712,
-    "title": "UDP flood attack sample",
-    "description": "<p>UDP flood DDoS attack sample</p>",
-    "url": null,
-    "doi": "10.5281/zenodo.5578712",
-    "keywords": [],
-    "published": "2021-10-19",
-    "creators": [
-      "Balazs Nagy"
-    ]
-  },
-  {
-    "id": 4603835,
-    "title": "Data from: Analysis of southern California mitigation banks with implications for The Wildlands Conservancy's Sacred Lands Network and Bluff Lake Reserve",
-    "description": "<p>I conducted a qualitative analysis of mitigation banks in southern California, and from interviews with nine individuals associated with the banks or with mitigation tools, reveal the overall lack of cohesive understanding of the purpose and integrity of mitigation banks. This reveals the uncerta",
-    "url": null,
-    "doi": "10.7280/D1HQ2Z",
-    "keywords": [
-      "commodity",
-      "stakeholder",
-      "wetland",
-      "Credit",
-      "mitigation bank"
-    ],
-    "published": "2021-03-13",
-    "creators": [
-      "Tapia, Corrina"
-    ]
-  },
-  {
-    "id": 6451769,
-    "title": "The MalRadar Dataset",
-    "description": "<p>Mobile malware detection has attracted massive research effort in our community. A reliable and up-to-date malware dataset is critical to evaluate the effectiveness of malware detection approaches. Essentially, the malware ground truth should be manually verified by security experts, and their ma",
-    "url": null,
-    "doi": "10.5281/zenodo.6451769",
-    "keywords": [
-      "Android Malware",
-      "Dataset"
-    ],
-    "published": "2022-04-12",
-    "creators": [
-      "MalRadar"
-    ]
-  },
-  {
-    "id": 10329476,
-    "title": "Four # 9_1",
-    "description": "Fours de bronzier, Palais Royal, Ankor Thom, Siem Reap, Cambodge\n\nSource: Objaverse 1.0 / Sketchfab",
-    "url": null,
-    "doi": "10.5281/zenodo.10329476",
-    "keywords": [],
-    "published": "2020-06-17",
-    "creators": [
-      "Nicolas.Josso"
-    ]
-  },
-  {
-    "id": 10293614,
-    "title": "Four # 9_2",
-    "description": "Fours de bronzier, Palais Royal, Ankor Thom, Siem Reap, Cambodge\n\nSource: Objaverse 1.0 / Sketchfab",
-    "url": null,
-    "doi": "10.5281/zenodo.10293614",
-    "keywords": [],
-    "published": "2020-06-17",
-    "creators": [
-      "Nicolas.Josso"
-    ]
-  },
-  {
-    "id": 10312276,
-    "title": "Fours # 10",
-    "description": "Fours de bronzier, Palais Royal, Ankor Thom, Siem Reap, Cambodge\n\nSource: Objaverse 1.0 / Sketchfab",
-    "url": null,
-    "doi": "10.5281/zenodo.10312276",
-    "keywords": [],
-    "published": "2020-06-17",
-    "creators": [
-      "Nicolas.Josso"
-    ]
-  },
-  {
-    "id": 10219341,
-    "title": "Fours # 3-4",
-    "description": "Fours de bronzier, Palais Royal, Ankor Thom, Siem Reap, Cambodge\n\nSource: Objaverse 1.0 / Sketchfab",
-    "url": null,
-    "doi": "10.5281/zenodo.10219341",
-    "keywords": [],
-    "published": "2020-06-17",
-    "creators": [
-      "Nicolas.Josso"
-    ]
-  },
-  {
-    "id": 4574307,
-    "title": "C\u00e9lulas madre pluripotentes inducidas (iPs) como modelo de artrosis de manos",
-    "description": "<p>Esta base de datos recoge los datasets generados en el proyecto de investigaci&oacute;n &quot;C&eacute;lulas madre pluripotentes inducidas (iPs) como modelo de artrosis de manos&quot;.&nbsp;Carpeta &ldquo;Resultados_ microsatelites&rdquo;: contiene los resultados del an&aacute;lisis de microsat&e",
-    "url": null,
-    "doi": "10.5281/zenodo.4574307",
-    "keywords": [
-      "Induced pluripotent stem cells",
-      "iPS",
-      "Osteoarthritis",
-      "Fibroblasts"
-    ],
-    "published": "2021-03-02",
-    "creators": [
-      "Diaz Prado, Silvia"
     ]
   },
   {
@@ -4843,27 +4649,155 @@
     ]
   },
   {
-    "id": 10370696,
-    "title": "IS Seismic Data",
-    "description": "<p>IS Seismic data used to detect Hamas's pre-attack motions on Oct. 7. Results published in the following paper:</p>\n<p>Asaf Inbal; Forensic Seismic Evidence for Precursory Mobilization in Gaza Leading to the October 7 Hamas Attack. The Seismic Record 2024;; 4 (4): 288&ndash;298.&nbsp;<a href=\"http",
+    "id": 5172160,
+    "title": "Extent of severe flooding events in the Spercheios river, Greece (OAL-GR)",
+    "description": "<p>The ambition of H2020 OPERANDUM project is to develop and document Nature Based Solutions (NBS) to mitigate risks associated with hydro-meteorological (HM) hazards. NBS mitigate risks by reducing the vulnerability of a particular system. The aim of this work is to demonstrate the use of multisour",
     "url": null,
-    "doi": "10.5281/zenodo.10370696",
-    "keywords": [],
-    "published": "2023-12-13",
+    "doi": "10.5281/zenodo.5172160",
+    "keywords": [
+      "Flood",
+      "Sentinel",
+      "Normalized Difference Water Index",
+      "Remote Sensing"
+    ],
+    "published": "2021-08-10",
     "creators": [
-      "Inbal, Asaf"
+      "Silvia Maria Alfieri",
+      "Fatemeh Foroughnia",
+      "Roderik Lindenbergh",
+      "Massimo Menenti"
     ]
   },
   {
-    "id": 10238618,
-    "title": "Four # 8",
+    "id": 4826421,
+    "title": "Data from: Genotype-environment mismatch of kelp forests under climate change",
+    "description": "<p class=\"MsoNoSpacing\"><span><span><span><span><span><span><span><span><span><span><span>Climate change is increasingly impacting ecosystems globally. Understanding adaptive genetic diversity and whether it will keep pace with projected climatic change is necessary to assess species' vulnerability ",
+    "url": null,
+    "doi": "10.5061/dryad.fn2z34ttg",
+    "keywords": [],
+    "published": "2021-05-27",
+    "creators": [
+      "Vranken, Sofie",
+      "Wernberg, Thomas",
+      "Scheben, Armin",
+      "Severn-Ellis, Anita",
+      "Batley, Jacqueline",
+      "Bayer, Philipp Emanuel",
+      "Edwards, David",
+      "Wheeler, David",
+      "Coleman, Melinda Ann"
+    ]
+  },
+  {
+    "id": 5336381,
+    "title": "Extent of severe flooding events in the Elbe river, Germany (OAL-DE)",
+    "description": "<p>The ambition of H2020 OPERANDUM project is to develop and document Nature Based Solutions (NBS) to mitigate risks associated with hydro-meteorological (HM) hazards. NBS mitigate risks by reducing the vulnerability of a particular system. The aim of this work is to demonstrate the use of multisour",
+    "url": null,
+    "doi": "10.5281/zenodo.5336381",
+    "keywords": [
+      "flood maps",
+      "NDWI",
+      "Landsat",
+      "TerrasarX"
+    ],
+    "published": "2021-08-30",
+    "creators": [
+      "Silvia Maria Alfieri"
+    ]
+  },
+  {
+    "id": 5578712,
+    "title": "UDP flood attack sample",
+    "description": "<p>UDP flood DDoS attack sample</p>",
+    "url": null,
+    "doi": "10.5281/zenodo.5578712",
+    "keywords": [],
+    "published": "2021-10-19",
+    "creators": [
+      "Balazs Nagy"
+    ]
+  },
+  {
+    "id": 10329476,
+    "title": "Four # 9_1",
     "description": "Fours de bronzier, Palais Royal, Ankor Thom, Siem Reap, Cambodge\n\nSource: Objaverse 1.0 / Sketchfab",
     "url": null,
-    "doi": "10.5281/zenodo.10238618",
+    "doi": "10.5281/zenodo.10329476",
     "keywords": [],
     "published": "2020-06-17",
     "creators": [
       "Nicolas.Josso"
+    ]
+  },
+  {
+    "id": 10312276,
+    "title": "Fours # 10",
+    "description": "Fours de bronzier, Palais Royal, Ankor Thom, Siem Reap, Cambodge\n\nSource: Objaverse 1.0 / Sketchfab",
+    "url": null,
+    "doi": "10.5281/zenodo.10312276",
+    "keywords": [],
+    "published": "2020-06-17",
+    "creators": [
+      "Nicolas.Josso"
+    ]
+  },
+  {
+    "id": 10293614,
+    "title": "Four # 9_2",
+    "description": "Fours de bronzier, Palais Royal, Ankor Thom, Siem Reap, Cambodge\n\nSource: Objaverse 1.0 / Sketchfab",
+    "url": null,
+    "doi": "10.5281/zenodo.10293614",
+    "keywords": [],
+    "published": "2020-06-17",
+    "creators": [
+      "Nicolas.Josso"
+    ]
+  },
+  {
+    "id": 10219341,
+    "title": "Fours # 3-4",
+    "description": "Fours de bronzier, Palais Royal, Ankor Thom, Siem Reap, Cambodge\n\nSource: Objaverse 1.0 / Sketchfab",
+    "url": null,
+    "doi": "10.5281/zenodo.10219341",
+    "keywords": [],
+    "published": "2020-06-17",
+    "creators": [
+      "Nicolas.Josso"
+    ]
+  },
+  {
+    "id": 4603835,
+    "title": "Data from: Analysis of southern California mitigation banks with implications for The Wildlands Conservancy's Sacred Lands Network and Bluff Lake Reserve",
+    "description": "<p>I conducted a qualitative analysis of mitigation banks in southern California, and from interviews with nine individuals associated with the banks or with mitigation tools, reveal the overall lack of cohesive understanding of the purpose and integrity of mitigation banks. This reveals the uncerta",
+    "url": null,
+    "doi": "10.7280/D1HQ2Z",
+    "keywords": [
+      "commodity",
+      "stakeholder",
+      "wetland",
+      "Credit",
+      "mitigation bank"
+    ],
+    "published": "2021-03-13",
+    "creators": [
+      "Tapia, Corrina"
+    ]
+  },
+  {
+    "id": 4574307,
+    "title": "C\u00e9lulas madre pluripotentes inducidas (iPs) como modelo de artrosis de manos",
+    "description": "<p>Esta base de datos recoge los datasets generados en el proyecto de investigaci&oacute;n &quot;C&eacute;lulas madre pluripotentes inducidas (iPs) como modelo de artrosis de manos&quot;.&nbsp;Carpeta &ldquo;Resultados_ microsatelites&rdquo;: contiene los resultados del an&aacute;lisis de microsat&e",
+    "url": null,
+    "doi": "10.5281/zenodo.4574307",
+    "keywords": [
+      "Induced pluripotent stem cells",
+      "iPS",
+      "Osteoarthritis",
+      "Fibroblasts"
+    ],
+    "published": "2021-03-02",
+    "creators": [
+      "Diaz Prado, Silvia"
     ]
   },
   {
@@ -4880,6 +4814,45 @@
     "creators": [
       "Onkelinx, Thierry",
       "De Vos, Bruno"
+    ]
+  },
+  {
+    "id": 2483022,
+    "title": "HamSCI 2017 Solar Eclipse QSO Party (SEQP) Data",
+    "description": "<p>The 2017 Solar Eclipse QSO Party (SEQP) was a ham radio contest-like experiment designed to study the effects of the 21 August 2017 Total Solar Eclipse on the ionosphere and radio propagation. The SEQP was coordinated by the Ham Radio Science Citizen Investigation (hamsci.org). This archive conta",
+    "url": null,
+    "doi": "10.5281/zenodo.2483022",
+    "keywords": [],
+    "published": "2018-12-21",
+    "creators": [
+      "Frissell, Nathaniel"
+    ]
+  },
+  {
+    "id": 6451769,
+    "title": "The MalRadar Dataset",
+    "description": "<p>Mobile malware detection has attracted massive research effort in our community. A reliable and up-to-date malware dataset is critical to evaluate the effectiveness of malware detection approaches. Essentially, the malware ground truth should be manually verified by security experts, and their ma",
+    "url": null,
+    "doi": "10.5281/zenodo.6451769",
+    "keywords": [
+      "Android Malware",
+      "Dataset"
+    ],
+    "published": "2022-04-12",
+    "creators": [
+      "MalRadar"
+    ]
+  },
+  {
+    "id": 10370696,
+    "title": "IS Seismic Data",
+    "description": "<p>IS Seismic data used to detect Hamas's pre-attack motions on Oct. 7. Results published in the following paper:</p>\n<p>Asaf Inbal; Forensic Seismic Evidence for Precursory Mobilization in Gaza Leading to the October 7 Hamas Attack. The Seismic Record 2024;; 4 (4): 288&ndash;298.&nbsp;<a href=\"http",
+    "url": null,
+    "doi": "10.5281/zenodo.10370696",
+    "keywords": [],
+    "published": "2023-12-13",
+    "creators": [
+      "Inbal, Asaf"
     ]
   },
   {
@@ -4907,27 +4880,45 @@
     ]
   },
   {
-    "id": 5578703,
-    "title": "ICMP, UDP, TCP Syn Multivector DDoS attack",
-    "description": "<p>ICMP, UDP, TCP Syn Multivector DDoS attack</p>",
+    "id": 6535144,
+    "title": "Logs and QC information for the northern Borneo Orogeny Seismic Survey seismic network",
+    "description": "<p>Instrument log files (mass positions + GPS offset/syncs and system information) for the northern Borneo Orogeny Seismic Survey (nBOSS) seismic network, which operated 2018&ndash;2020.<br>\n<br>\nFDSN network code: YC (<a href=\"https://doi.org/10.7914/SN/YC_2018\">https://doi.org/10.7914/SN/YC_2018</",
     "url": null,
-    "doi": "10.5281/zenodo.5578703",
-    "keywords": [],
-    "published": "2021-10-19",
+    "doi": "10.5281/zenodo.6535144",
+    "keywords": [
+      "logs",
+      "quality assessment",
+      "seismic network",
+      "metadata"
+    ],
+    "published": "2022-05-10",
     "creators": [
-      "Balazs Nagy"
+      "Bacon, Conor Andrew"
     ]
   },
   {
-    "id": 5578700,
-    "title": "CHARGEN UDPfrag TCP Syn Multivector DDoS attack",
-    "description": "<p>CHARGEN, UDPfrag, TCP Syn, Multivector DDoS attack</p>",
+    "id": 10238618,
+    "title": "Four # 8",
+    "description": "Fours de bronzier, Palais Royal, Ankor Thom, Siem Reap, Cambodge\n\nSource: Objaverse 1.0 / Sketchfab",
     "url": null,
-    "doi": "10.5281/zenodo.5578700",
+    "doi": "10.5281/zenodo.10238618",
     "keywords": [],
-    "published": "2021-10-19",
+    "published": "2020-06-17",
     "creators": [
-      "Balazs Nagy"
+      "Nicolas.Josso"
+    ]
+  },
+  {
+    "id": 14801544,
+    "title": "Application of AI in Network Traffic Analysis",
+    "description": "<p>In this thesis, I investigate the transformative role of artificial intelligence (AI) in network traffic analysis, highlighting how AI technologies enhance the monitoring and management of network data. As networks grow increasingly complex, traditional methods fall short in providing the efficie",
+    "url": null,
+    "doi": "10.5281/zenodo.14801544",
+    "keywords": [],
+    "published": "2025-02-04",
+    "creators": [
+      "Janak Dungrani",
+      "Vraj Shiroya"
     ]
   },
   {
@@ -4946,47 +4937,72 @@
     ]
   },
   {
-    "id": 2483022,
-    "title": "HamSCI 2017 Solar Eclipse QSO Party (SEQP) Data",
-    "description": "<p>The 2017 Solar Eclipse QSO Party (SEQP) was a ham radio contest-like experiment designed to study the effects of the 21 August 2017 Total Solar Eclipse on the ionosphere and radio propagation. The SEQP was coordinated by the Ham Radio Science Citizen Investigation (hamsci.org). This archive conta",
+    "id": 5578700,
+    "title": "CHARGEN UDPfrag TCP Syn Multivector DDoS attack",
+    "description": "<p>CHARGEN, UDPfrag, TCP Syn, Multivector DDoS attack</p>",
     "url": null,
-    "doi": "10.5281/zenodo.2483022",
+    "doi": "10.5281/zenodo.5578700",
     "keywords": [],
-    "published": "2018-12-21",
+    "published": "2021-10-19",
     "creators": [
-      "Frissell, Nathaniel"
+      "Balazs Nagy"
     ]
   },
   {
-    "id": 5006486,
-    "title": "Data from: Restoration as mitigation: analysis of stream mitigation for coal mining impacts in southern Appalachia",
-    "description": "Compensatory mitigation is commonly used to replace aquatic natural resources being lost or degraded but little is known about the success of stream mitigation. This article presents a synthesis of information about 434 stream mitigation projects from 117 permits for surface mining in Appalachia. Da",
+    "id": 5578703,
+    "title": "ICMP, UDP, TCP Syn Multivector DDoS attack",
+    "description": "<p>ICMP, UDP, TCP Syn Multivector DDoS attack</p>",
     "url": null,
-    "doi": "10.5061/dryad.2d504",
-    "keywords": [
-      "Mountaintop mining",
-      "Natural channel design",
-      "Compensatory mitigation",
-      "stream restoration"
-    ],
-    "published": "2014-08-22",
+    "doi": "10.5281/zenodo.5578703",
+    "keywords": [],
+    "published": "2021-10-19",
     "creators": [
-      "Palmer, Margaret A.",
-      "Hondula, Kelly Lynn"
+      "Balazs Nagy"
     ]
   },
   {
-    "id": 7513367,
-    "title": "Decoding MIEV car in motion",
-    "description": "<p>The data represent the&nbsp;internal network progressive codesd for a test MIEV car in motion. The motion includes forward, stop, change gear, reverse, and stop conditions. The duration of the movement was about 4 minutes.</p>",
+    "id": 6392020,
+    "title": "Coordination of two opposite flagella allows high-speed swimming and active turning of individual zoospores",
+    "description": "<p>This contains the datasets of zoospores swimming in water at global scale and during a turning event. We also include the Matlab files for computing the data of global scale data and&nbsp;the simulation for zoospore spreading.</p>",
     "url": null,
-    "doi": "10.5281/zenodo.7513367",
-    "keywords": [
-      "Decoding"
-    ],
-    "published": "2023-01-08",
+    "doi": "10.5281/zenodo.6392020",
+    "keywords": [],
+    "published": "2022-03-28",
     "creators": [
-      "Ghadi, Maen"
+      "Quang D. TRAN",
+      "Eric Galiana",
+      "Philippe Thomen",
+      "C\u00e9line Cohen",
+      "Fran\u00e7ois Orange",
+      "Fernando Peruani",
+      "Xavier Noblin"
+    ]
+  },
+  {
+    "id": 15399224,
+    "title": "Evaluation of a Generalized Least Squares Algorithm for Infrasound Beamforming with Coherent Background Noise [Dataset]",
+    "description": "<p>This dataset contains infrasound waveforms to accompany the peer-reviewed manuscript &ldquo;Evaluation of a Generalized Least Squares Algorithm for Infrasound Beamforming with Coherent Background Noise&rdquo; submitted for publication in the journal <em>Geophysical Journal International</em> by J",
+    "url": null,
+    "doi": "10.5281/zenodo.15399224",
+    "keywords": [],
+    "published": "2025-05-13",
+    "creators": [
+      "Bishop, Jordan W",
+      "Blom, Philip",
+      "Webster, Jeremy"
+    ]
+  },
+  {
+    "id": 4073861,
+    "title": "Data for the MLCS 2020 paper \"A Year of Automated Anomaly Detection in a Datacenter\"",
+    "description": "<p>This contains the data used for the paper by Ahmed et. al in the MLCS 2020 paper &quot;A Year of Automated Anomaly Detection in a Datacenter&quot;. Each of the four CSV files corresponds to one of the quarters discussed in the paper, and each has a metadata file containing information about the q",
+    "url": null,
+    "doi": "10.5281/zenodo.4073861",
+    "keywords": [],
+    "published": "2020-10-08",
+    "creators": [
+      "Ahmed, Rufaida",
+      "Ricci, Robert"
     ]
   },
   {
@@ -5002,20 +5018,6 @@
     "creators": [
       "Rodr\u00edguez-Fern\u00e1ndez, Leticia",
       "Rodr\u00edguez de Austria Gim\u00e9nez de Arag\u00f3n, Alfonso M."
-    ]
-  },
-  {
-    "id": 15399224,
-    "title": "Evaluation of a Generalized Least Squares Algorithm for Infrasound Beamforming with Coherent Background Noise [Dataset]",
-    "description": "<p>This dataset contains infrasound waveforms to accompany the peer-reviewed manuscript &ldquo;Evaluation of a Generalized Least Squares Algorithm for Infrasound Beamforming with Coherent Background Noise&rdquo; submitted for publication in the journal <em>Geophysical Journal International</em> by J",
-    "url": null,
-    "doi": "10.5281/zenodo.15399224",
-    "keywords": [],
-    "published": "2025-05-13",
-    "creators": [
-      "Bishop, Jordan W",
-      "Blom, Philip",
-      "Webster, Jeremy"
     ]
   },
   {
@@ -5037,19 +5039,17 @@
     ]
   },
   {
-    "id": 5547606,
-    "title": "RECOD.ai Events Dataset",
-    "description": "<p><strong>Overview</strong></p>\n\n<p>This data set consists of links to social network items for 34 different forensic events that took place between August 14th, 2018 and January 06th, 2021. The majority of the text and images are from Twitter (a minor part is from Flickr, Facebook and Google+), an",
+    "id": 7513367,
+    "title": "Decoding MIEV car in motion",
+    "description": "<p>The data represent the&nbsp;internal network progressive codesd for a test MIEV car in motion. The motion includes forward, stop, change gear, reverse, and stop conditions. The duration of the movement was about 4 minutes.</p>",
     "url": null,
-    "doi": "10.5281/zenodo.5547606",
+    "doi": "10.5281/zenodo.7513367",
     "keywords": [
-      "Event Understanding",
-      "Digital Forensics"
+      "Decoding"
     ],
-    "published": "2021-10-06",
+    "published": "2023-01-08",
     "creators": [
-      "Nascimento, Jos\u00e9",
-      "Rocha, Anderson"
+      "Ghadi, Maen"
     ]
   },
   {
@@ -5073,49 +5073,34 @@
     ]
   },
   {
-    "id": 5578727,
-    "title": "UDP flood attack sample with short payload",
-    "description": "<p>UDP flood attack sample with short payload</p>",
+    "id": 13624716,
+    "title": "A sand spit under the 2018 flood event: case study at Arakawa River mouth in Niigata, Japan",
+    "description": "<p>The datasets are the results of a numerical simulation study of a sand spit at the Arakawa river mouth in Niigata, Japan under the 2018 flood event. The datasets include observed data of tides, river discharge, and waves, and numerical results of SWAN and XBeach.</p>",
     "url": null,
-    "doi": "10.5281/zenodo.5578727",
-    "keywords": [
-      "DDoS"
-    ],
-    "published": "2021-10-19",
+    "doi": "10.5281/zenodo.13624716",
+    "keywords": [],
+    "published": "2024-09-03",
     "creators": [
-      "Balazs Nagy"
+      "Ohizumi, Kota",
+      "Nakamura, Ryota",
+      "M\u00e4ll, Martin",
+      "Ishibashi, Kunihiko"
     ]
   },
   {
-    "id": 6535144,
-    "title": "Logs and QC information for the northern Borneo Orogeny Seismic Survey seismic network",
-    "description": "<p>Instrument log files (mass positions + GPS offset/syncs and system information) for the northern Borneo Orogeny Seismic Survey (nBOSS) seismic network, which operated 2018&ndash;2020.<br>\n<br>\nFDSN network code: YC (<a href=\"https://doi.org/10.7914/SN/YC_2018\">https://doi.org/10.7914/SN/YC_2018</",
+    "id": 5547606,
+    "title": "RECOD.ai Events Dataset",
+    "description": "<p><strong>Overview</strong></p>\n\n<p>This data set consists of links to social network items for 34 different forensic events that took place between August 14th, 2018 and January 06th, 2021. The majority of the text and images are from Twitter (a minor part is from Flickr, Facebook and Google+), an",
     "url": null,
-    "doi": "10.5281/zenodo.6535144",
+    "doi": "10.5281/zenodo.5547606",
     "keywords": [
-      "logs",
-      "quality assessment",
-      "seismic network",
-      "metadata"
+      "Event Understanding",
+      "Digital Forensics"
     ],
-    "published": "2022-05-10",
+    "published": "2021-10-06",
     "creators": [
-      "Bacon, Conor Andrew"
-    ]
-  },
-  {
-    "id": 5572097,
-    "title": "CLDAP DNS Multivector DDoS attack",
-    "description": "<p>Capture of a DNS, CLDAP multivector DDoS attack</p>",
-    "url": null,
-    "doi": "10.5281/zenodo.5572097",
-    "keywords": [
-      "DDoS",
-      "capture"
-    ],
-    "published": "2021-10-15",
-    "creators": [
-      "Balazs Nagy"
+      "Nascimento, Jos\u00e9",
+      "Rocha, Anderson"
     ]
   },
   {
@@ -5135,44 +5120,69 @@
     ]
   },
   {
-    "id": 5005812,
-    "title": "Data from: The development of individual differences in cooperative behaviour: maternal glucocorticoid hormones alter helping behaviour of offspring in wild meerkats",
-    "description": "The phenotype of parents can have long-lasting effects on the development of offspring as well as on their behaviour, physiology and morphology as adults. In some cases, these changes may increase offspring fitness but, in others, they can elevate parental fitness at a cost to the fitness of their o",
+    "id": 8164913,
+    "title": "A flashing flow model for the rapid depressurization of CO2 in a pipe accounting for bubble nucleation and growth \u2013 dataset",
+    "description": "<p>This dataset contains data from the depressurization of pure CO2&nbsp;in a tube from a cold, dense-liquid state. The data is described in the accompanying paper (DOI: <a href=\"https://doi.org/10.1016/j.ijmultiphaseflow.2023.104666\">10.1016/j.ijmultiphaseflow.2023.104666</a>).</p><p>Test number; f",
     "url": null,
-    "doi": "10.5061/dryad.260t0rm",
+    "doi": "10.5281/zenodo.8164913",
     "keywords": [
-      "maternal stress",
-      "Suricata suricatta",
-      "Glucocorticoids"
+      "carbon dioxide",
+      "depressurization",
+      "flashing",
+      "flow",
+      "CO2",
+      "pipe",
+      "experiment"
     ],
-    "published": "2019-03-22",
+    "published": "2023-11-13",
     "creators": [
-      "Dantzer, Ben",
-      "Dubuc, Constance",
-      "Goncalves, Ines Braga",
-      "Cram, Dominic L.",
-      "Bennett, Nigel C.",
-      "Ganswindt, Andre",
-      "Heistermann, Michael",
-      "Duncan, Chris",
-      "Gaynor, David",
-      "Clutton-Brock, Tim H."
+      "Log, Alexandra Metallinou",
+      "Hammer, Morten",
+      "Munkejord, Svend Tollak"
     ]
   },
   {
-    "id": 1238041,
-    "title": "Ransomware Payments in the Bitcoin Ecosystem",
-    "description": "<p>This dataset contains 7,222 Bitcoin seed addresses related to 67 ransomware families as well as addresses that were identified by applying the expansion procedure describe in this paper:&nbsp;https://arxiv.org/pdf/1804.04080.pdf</p>",
+    "id": 1296278,
+    "title": "DYNAMISM - Postprocessed Execution Traces Of Android Malware and Benign Apps",
+    "description": "<p>Protection against malware is particularly relevant on systems running the Android operating system, due to its huge use base and, therefore, its potential for monetization from the attackers.</p>\n\n<p>Protection against malware is particularly relevant in systems running the Android operating sys",
     "url": null,
-    "doi": "10.5281/zenodo.1238041",
+    "doi": "10.5281/zenodo.1296278",
     "keywords": [
-      "bitcoin, ransomware"
+      "malware",
+      "Android OS",
+      "mobile malware",
+      "mobile devices",
+      "malware detection",
+      "dynamic detection",
+      "dynamic malware detection",
+      "behavioral analysis",
+      "memory usage",
+      "CPU usage",
+      "network statistics",
+      "Android applications",
+      "runtime analysis"
     ],
-    "published": "2018-04-11",
+    "published": "2018-06-22",
     "creators": [
-      "Paquet-Clouston, Masarah",
-      "Haslhofer, Bernhard",
-      "Dupont, Benoit"
+      "Ferrante, Alberto",
+      "Mercaldo, Francesco",
+      "Malek, Miroslaw",
+      "Milosevic, Jelena"
+    ]
+  },
+  {
+    "id": 5572097,
+    "title": "CLDAP DNS Multivector DDoS attack",
+    "description": "<p>Capture of a DNS, CLDAP multivector DDoS attack</p>",
+    "url": null,
+    "doi": "10.5281/zenodo.5572097",
+    "keywords": [
+      "DDoS",
+      "capture"
+    ],
+    "published": "2021-10-15",
+    "creators": [
+      "Balazs Nagy"
     ]
   },
   {
